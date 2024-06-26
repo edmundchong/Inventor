@@ -1,0 +1,2 @@
+- goes at base of touchscreen
+- M5 screw holes for attaching cheeseboard mount
