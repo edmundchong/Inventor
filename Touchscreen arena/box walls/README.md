@@ -10,8 +10,8 @@
 - reward port (3d print: reward port/liquid_port_vXX.stl) will mate here
   - has specific mating orientation enforced by protruding triangle 
 - round holes for magnets
-  - 5mm diameter x 3mm thickness on wall
-  - 5mm diameter x 3mm thickness on liquid port 3d print
+  - 5mm diameter x 5mm thickness (RS Components 2192245) on wall
+  - 5mm diameter x 3mm thickness (RS Components 2192234) on liquid port 3d print
 
 
 ### Side Door
