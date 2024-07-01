@@ -1,5 +1,12 @@
 ### Edmund Chong, Lida Pentousi
-
+- Neodymium magnets
+  - 10 total of 5mm diameter x 3mm thickness (RS Components 2192234)
+    - 6 on liquid port 3d print
+    - 4 on cover
+  - 20 total of 5mm diameter x 5mm thickness (RS Components 2192245)
+    - 6 on W wall to mate with liquid port
+    - 4 on cover mount to mate with cover
+    - 10 for S wall door
 - 2 x piezo buzzers
   - RS Components 724-3150
   - RS PRO 88dB Panel Mount Square Wave External Piezo Buzzer, 41 x 30 x 5.5mm, 1V ac Min, 30V ac Max
