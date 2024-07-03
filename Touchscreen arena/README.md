@@ -1,12 +1,17 @@
 ### Edmund Chong, Lida Pentousi
 - Neodymium magnets
-  - 10 total of 5mm diameter x 3mm thickness (RS Components 2192234)
+  - 14 total of 5mm diameter x 3mm thickness (RS Components 2192234)
     - 6 on liquid port 3d print
     - 4 on cover
-  - 20 total of 5mm diameter x 5mm thickness (RS Components 2192245)
+    - 4 on cheeseboard to mate with fixation
+  - 24 total of 5mm diameter x 5mm thickness (RS Components 2192245)
     - 6 on W wall to mate with liquid port
     - 4 on cover mount to mate with cover
     - 10 for S wall door
+    - 4 on fixation base
+  - **MAGNET POLARITIES**
+    - standardized (identical across boxes)
+    - I keep a pair of reference magnets colored red and black, which i color all mating magnet surfaces in the box 
 - T-slot nut
   - RS Components 180-9104, for 20mm strut with 5mm groove
     - there are multiple variations of this part which will fit, this one has extra ball bearing and side grooves for snap grip
