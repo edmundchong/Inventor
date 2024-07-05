@@ -15,10 +15,11 @@
 - T-slot nut
   - RS Components 180-9104, for 20mm strut with 5mm groove
     - there are multiple variations of this part which will fit, this one has extra ball bearing and side grooves for snap grip
-  - 12 total
+  - 14 total
     - 4 for cover mount
     - 6 for LED mount
     - 2 for touchscreen mount
+    - 2 for cameras
 - 2 x piezo buzzers
   - RS Components 724-3150
   - RS PRO 88dB Panel Mount Square Wave External Piezo Buzzer, 41 x 30 x 5.5mm, 1V ac Min, 30V ac Max
