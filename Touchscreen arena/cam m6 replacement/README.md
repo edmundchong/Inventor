@@ -1,0 +1,9 @@
+- for the ELP USB cameras off Amazon
+  - e.g. ELP KL36IR 1080P Full HD Infrared Night Vision PC Camera 720P/60FPS Plug and Play Camera Video Web Cam USB with IR Cut
+-  the mounting screw is 1/4-20. This is incompatible with the rest of setup which uses metric screw / threads.
+  - can find imperial t-slot nuts
+  - thorlabs has 1/2" optical posts with imperial threads at the bottom
+  - and screw adapters
+  - **BUT! i found this too much trouble** and ended up 3d printing a replacement part with M6 instead
+- the two small screws which attach the part to the camera, are #0
+  - screwdriver e.g. RS PRO Pozidriv, PZ0 Tip
