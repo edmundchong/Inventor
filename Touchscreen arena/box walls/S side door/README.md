@@ -1,0 +1,2 @@
+- 2 hinges per door
+- RS-9174539 
