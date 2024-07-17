@@ -1,4 +1,5 @@
 ### Edmund Chong, Lida Pentousi
+- PC with at least GeForce RTX 2060 for online SLEAP inference in bonsai
 - Neodymium magnets
   - 14 total of 5mm diameter x 3mm thickness (RS Components 2192234)
     - 6 on liquid port 3d print
@@ -23,4 +24,14 @@
 - 2 x piezo buzzers
   - RS Components 724-3150
   - RS PRO 88dB Panel Mount Square Wave External Piezo Buzzer, 41 x 30 x 5.5mm, 1V ac Min, 30V ac Max
-  - 
+- DC plug 2.1mm pin diameter, female end, RS 771-9186
+  - 9 total
+  - 2 for LED strips
+  - 2 for buzzer, buzzer end
+  - 2 for buzzer, arduino end
+  - 1 for lick board
+- DC plug 2.1mm pin diameter, male (pin end), RS 810-4605
+  - 8 total
+  - 4 for buzzers (2 each at arduino and buzzer end)
+  - 3 for LED strips
+  - 1 for lick board
