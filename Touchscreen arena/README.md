@@ -23,4 +23,9 @@
 - 2 x piezo buzzers
   - RS Components 724-3150
   - RS PRO 88dB Panel Mount Square Wave External Piezo Buzzer, 41 x 30 x 5.5mm, 1V ac Min, 30V ac Max
-  - 
+- DC plug 2.1mm pin diameter
+  - 9 total
+  - 2 for LED strips
+  - 2 for buzzer, buzzer end
+  - 2 for buzzer, arduino end
+  - 1 for lick board
