@@ -1,0 +1,11 @@
+- LED strips
+  - LightingWill DC12V 5Meter/16.4ft 72W SMD5050 300LEDs IR InfraRed 940nm Tri-chip White PCB Flexible LED Strips 60LEDs 14.4W Per Meter
+    - 940nm non-waterproof
+    - on Amazon, also seen on eBay under different seller
+      - https://www.ebay.com/itm/166015708609
+- attached to aluminium extrusion (as heat sinks)
+  - PowerLED LED Strip Extrusion & Diffuser EXT for Cove Lighting, Shelve Lighting, Skirting Board Lighting, Under Cabinet
+  - RS 161-8105
+  - LED strips come with their own adhesive, but if re-taping:
+    - Amazon: CTRICALVER Thermal Adhesive Tape, Double Sided Thermal Adhesive Tape for LED Lighting Ic and LED Televisions with Excellent Insulation, High Thermal Conductivity (10mm 25m)
+    - https://www.amazon.co.uk/dp/B087328GT3
