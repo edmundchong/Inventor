@@ -1,5 +1,6 @@
 ### Edmund Chong, Lida Pentousi
 - PC with at least GeForce RTX 2060 for online SLEAP inference in bonsai
+  - GeForce RTX 3050 VENTUS 2X 6G (cheaper than the RTX 2060) also works
 - Neodymium magnets
   - 14 total of 5mm diameter x 3mm thickness (RS Components 2192234)
     - 6 on liquid port 3d print
