@@ -25,6 +25,11 @@
 - 2 x piezo buzzers
   - RS Components 724-3150
   - RS PRO 88dB Panel Mount Square Wave External Piezo Buzzer, 41 x 30 x 5.5mm, 1V ac Min, 30V ac Max
+  - drill holes for M3 screw (one side is sufficient)
+    - there is barely enough room for screw cap to fit, so drill slightly off-center
+    - mount with M3 t-slot nut in strut
+      - one on north-west strut facing west
+      - one on north-east strut facing north
 - DC plug 2.1mm pin diameter, female end, RS 771-9186
   - 9 total
   - 2 for LED strips
