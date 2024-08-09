@@ -1,0 +1,2 @@
+- drill 3mm diameter holes into falcon tube cap
+- using 3.3mm (measured) OD 1.5mm ID silicone tubing 
