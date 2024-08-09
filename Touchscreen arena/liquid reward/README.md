@@ -1,2 +1,4 @@
-- drill 3mm diameter holes into falcon tube cap
-- using 3.3mm (measured) OD 1.5mm ID silicone tubing 
+- drill one 3mm diameter hole into falcon tube cap
+  - slot in using 3.3mm (measured) OD 1.5mm ID silicone tubing
+  - to make it easier to slot in initially, can cut the tubing at an angle
+- drill one additional small hole (any small size e.g. 1mm) that allows air to enter as milk is pumped out (and prevent vacuum from forming)
