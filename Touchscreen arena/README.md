@@ -41,3 +41,7 @@
   - 4 for buzzers (2 each at arduino and buzzer end)
   - 3 for LED strips
   - 1 for lick board
+ 
+
+- general: useful for mounting MIMEIMIAI Self Adhesive Tape, Double Sided Tape Heavy Duty Two Sided Sticky Pads Strong Wall Adhesive Strips No Marks Reusable Clear Nano Tape for Picture Hanging Carpet Glue
+- cable management: velcro cable ties, loom cable sleeve or velcro cable sleeves
