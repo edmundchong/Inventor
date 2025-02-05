@@ -3,7 +3,8 @@
 ## Equipment 
 - Dremmel drill (3rd floor lab)
 - Round blade with rough surface
-- Oral Dosing Needle (http://)
+- Oral Dosing Needle 
+   - Vet-direct NDL-OD-12-200-CV (Oral Dosing Needle 12G 200mm Curved)
 - Pliers
 
 ## Instructions 
