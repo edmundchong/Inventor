@@ -45,3 +45,35 @@
 
 - general: useful for mounting MIMEIMIAI Self Adhesive Tape, Double Sided Tape Heavy Duty Two Sided Sticky Pads Strong Wall Adhesive Strips No Marks Reusable Clear Nano Tape for Picture Hanging Carpet Glue
 - cable management: velcro cable ties, loom cable sleeve or velcro cable sleeves
+
+### Laser Cutting Instructions 
+1. Calibrate the laser cutter
+- Turn on the laser cutter
+- Lower the stage using up down arrows
+- Load acrylic sheet (make sure its flat)
+- Move laser closer to you using the xyz arrows
+- Place metal calibrator on laser
+- Slowly raise platform using up down arrows, until calibrator falls off
+
+2. Loading project
+- Download PDF design from the corresponding GitHub folder
+- Open CorelBoard
+- Open new project and import as curves
+- Change size of arena to 720 x 430
+
+3. Preparing cut design in CorelBoard
+- Select any lines that are not red or black and delete them
+- Select the entire drawing and change thickness to hairline
+- Press print job to send to TROTEC
+
+* If you want to cut multiple designs at the same time on one acrylic, you can select the entire design in CorelBoard, and copy/paste so a duplicate appears adjacent *
+
+4. Prepare cut design in TROTEC
+- Open TROTEC
+- The job should appear from CorelBoard. Double click on it to load it
+- Double click on the grey panel to see details of the design
+- Open material templates and make sure that correct colours and thickness is selected (skip black, cut red, set to acrylic 3mm)
+
+5. Press START
+
+*If you need to go back and engrave, you can JOB RESET in TROTEC, change to acrylic 5mm deep engrave, and run again. This will engrave anything thats in in black in your design*
