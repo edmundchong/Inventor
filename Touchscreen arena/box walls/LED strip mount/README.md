@@ -3,6 +3,7 @@
     - 940nm non-waterproof
     - on Amazon, also seen on eBay under different seller
       - https://www.ebay.com/itm/166015708609
+    - since the total length of the LED strips mounted is about a metre, we need 12V and > 1.2A
 - attached to aluminium extrusion (as heat sinks)
   - PowerLED LED Strip Extrusion & Diffuser EXT for Cove Lighting, Shelve Lighting, Skirting Board Lighting, Under Cabinet
   - RS 161-8105
