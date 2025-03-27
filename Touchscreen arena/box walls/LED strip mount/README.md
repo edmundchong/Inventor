@@ -1,5 +1,5 @@
 # LED Strips Step by Step
-- Each box contains 3 LED Strips, on the NSW walls.
+- Each box contains 3 LED Strips, on the SWE walls.
 - Each LED strip is mounted via 2 3D printed connectors (screw size?)
 
 ## Materials 
