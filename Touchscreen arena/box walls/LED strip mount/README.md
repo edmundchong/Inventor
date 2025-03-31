@@ -24,6 +24,11 @@
   - **Product**:M3 x 8mm screws (RS PRO M3 x 8mm Hex Socket Cap Screw Plain Stainless Steel - 280-997)
   - **Supplier**:RS
   - **Link**: https://uk.rs-online.com/web/p/socket-screws/0280997?gb=s
+ 
+- Screws for connector - strut
+  - **product**:
+  - **Supplier**:
+  - **Link**: 
 
 ## Assembly Steps
 1. Laser cut the drill guides from a scrap piece of acrylic
