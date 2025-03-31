@@ -18,7 +18,12 @@
     - **Link**: https://www.amazon.co.uk/dp/B087328GT3
    
 - 3D printed connector
-    - For attaching the aluminium extrusion to the strut. 
+    - For attaching the aluminium extrusion to the strut.
+ 
+- Screws (size?)
+  - **Product**:
+  - **Supplier**:
+  - **Link**:
 
 ## Assembly Steps
 1. Laser cut the drill guides from a scrap piece of acrylic
