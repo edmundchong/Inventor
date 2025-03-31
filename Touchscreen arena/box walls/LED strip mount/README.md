@@ -16,5 +16,15 @@
     - **Product**: CTRICALVER Thermal Adhesive Tape, Double Sided Thermal Adhesive Tape for LED Lighting Ic and LED Televisions with Excellent Insulation, High Thermal Conductivity (10mm 25m)
     - **Supplier**: Amazon
     - **Link**: https://www.amazon.co.uk/dp/B087328GT3
+   
+- 3D printed connector
+    - For attaching the aluminium extrusion to the strut. 
 
 ## Assembly Steps
+1. Laser cut the drill guides from a scrap piece of acrylic
+2. Use these guides as a template sawing the aluminium extrusion. You need to cut two short and one long piece, per rig
+3. Line up the drill guide with the cut aluminium extrusions, and use a sharpie to mark the location of the holes
+4. Use a drill (drill size?) to cut the holes in the aluminium. 
+5. 3D print 6 connectors, for attaching the aluminium to the struts of the rig
+6. Screw in the connectors to the aluminium using (screw size?) screws.
+7. The aluminium is now ready to be mounted onto the struts
