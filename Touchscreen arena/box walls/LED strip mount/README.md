@@ -20,10 +20,10 @@
 - 3D printed connector
     - For attaching the aluminium extrusion to the strut.
  
-- Screws (size?)
-  - **Product**:
-  - **Supplier**:
-  - **Link**:
+- Screws for aluminium extrusion - connector 
+  - **Product**:M3 x 8mm screws (RS PRO M3 x 8mm Hex Socket Cap Screw Plain Stainless Steel - 280-997)
+  - **Supplier**:RS
+  - **Link**: https://uk.rs-online.com/web/p/socket-screws/0280997?gb=s
 
 ## Assembly Steps
 1. Laser cut the drill guides from a scrap piece of acrylic
