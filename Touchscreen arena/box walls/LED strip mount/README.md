@@ -24,6 +24,11 @@
   - **Product**:M3 x 8mm screws (RS PRO M3 x 8mm Hex Socket Cap Screw Plain Stainless Steel - 280-997)
   - **Supplier**:RS
   - **Link**: https://uk.rs-online.com/web/p/socket-screws/0280997?gb=s
+ 
+- Screws for connector - strut
+  - **product**:
+  - **Supplier**:
+  - **Link**: 
 
 ## Assembly Steps
 1. Laser cut the drill guides from a scrap piece of acrylic
@@ -31,5 +36,11 @@
 3. Line up the drill guide with the cut aluminium extrusions, and use a sharpie to mark the location of the holes
 4. Use a drill (drill size?) to cut the holes in the aluminium. 
 5. 3D print 6 connectors, for attaching the aluminium to the struts of the rig
-6. Screw in the connectors to the aluminium using (screw size?) screws.
-7. The aluminium is now ready to be mounted onto the struts
+6. For the longer aluminium extrusions, cut LED strips of the same length and stick them to the flat internal edge of the aluminium
+7. Solder the copper edges of the LED strip to some wire; there should be 2 wires coming out of the LED, one positive and one negative. Do this for both LED strips
+9. Screw in the connectors to the aluminium using M3 X 8mm screws.
+10. With the aluminium attached to the connector, screw in the connector to the strut T bolt using a M5 x 5mm screw
+11. With the LED strips now mounted on the rig, twist the positive wires coming from the two LED strips together. Seperatley, twist the negative wires together
+12. Insert the twisted pos/neg wires into a female plug connector
+13. Solder the male plug connector to a 12V power plug
+14. Test that the LED strips come on under an IR camera
