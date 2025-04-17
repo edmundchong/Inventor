@@ -3,7 +3,7 @@
 - The walls are attached to the base by sliding them in the strut groove 
 
 ## Materials
-- **Product**: 3mm Matte Black Acrylic
+- **Product**: 5mm Matte Black Acrylic
   - **Supplier**: Stores
   
 - **Product**: 20mm RS Pro struts (RS 8508489)
