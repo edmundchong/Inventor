@@ -28,7 +28,12 @@
 - Screws for connector - strut
   - **product**:
   - **Supplier**:
-  - **Link**: 
+  - **Link**:
+ 
+- 12V Power supply
+  - **product**: 12V 3A 36W Power Supply Cable Adapter for CCTV Security Camera, LED Strip Lights, LCD Monitor, Audio/Video, Router, Security Camera, UK plug, Wall Charger, 5.5 * 2.1mm
+  - **supplier**: Amazon
+  - **link**: https://www.amazon.co.uk/Supply-Adapter-Security-Monitor-Charger%E3%80%905-5/dp/B0CFHDY1FF/ref=asc_df_B0CFHDY1FF?mcid=3894293d68f43f799d6263dd5d646d34&tag=googshopuk-21&linkCode=df0&hvadid=697284981752&hvpos=&hvnetw=g&hvrand=12504960150840693880&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9045997&hvtargid=pla-2246480174339&gad_source=1&th=1
 
 ## Assembly Steps
 1. Laser cut the drill guides from a scrap piece of acrylic
