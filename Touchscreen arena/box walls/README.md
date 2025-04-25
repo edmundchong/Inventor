@@ -1,6 +1,6 @@
 - general: glue magnets using gorilla glue, must minimize amount of glue on magnet mating surface (put some in hole before pushing magnet in, and apply more on opposite surface after)
 
-- Door handle: 2 x (M5 x 16mm)
+- Door handle: 2 x (M5 x 10 mm)
 - orientation of box walls:
   - front: screen (define as north)
   - side door: east, rig door
