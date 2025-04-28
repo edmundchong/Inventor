@@ -17,4 +17,15 @@
 ## Assembly Steps 
 1. Laser cut the base
 2. Use the saw to cut 7 x struts measuring 32.5cm in height
-3. Attach the struts according to the laser cut PDF, using the M5 x 16mm hex screws
+3. Attach the struts according to https://github.com/edmundchong/Inventor/blob/main/Touchscreen%20arena/box%20walls/01%20base/base%20struts%20schematic.pdf
+  - struts labelled 1-4 are laid flat (parallel to base), screwed in with T-slot nut + M5 x 10mm
+  - struts labelled 5 (six of them) are screwed in with M5 x 16mm, tapped at end
+
+strut lengths:
+1. 2.5  cm
+2. 8.5  cm
+3. 5    cm
+4. 13.5 cm
+5. 30   cm (?)
+    
+6. the laser cut PDF, using the M5 x 16mm hex screws
