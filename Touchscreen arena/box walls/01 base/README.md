@@ -28,4 +28,3 @@ strut lengths:
 4. 13.5 cm
 5. 30   cm (?)
     
-6. the laser cut PDF, using the M5 x 16mm hex screws
