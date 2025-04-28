@@ -1,6 +1,6 @@
 - mounting piece for the cheap ELP USB cameras off Amazon
   - e.g. ELP KL36IR 1080P Full HD Infrared Night Vision PC Camera 720P/60FPS Plug and Play Camera Video Web Cam USB with IR Cut
-- tap the larger hole with M6
+- tap the larger hole with M6 (M6 X 12MM)
 - this replaces the original on the camera--(screw threads 1/4-20)
 - the two small screws which attach the part to the camera, are #0
   - screwdriver e.g. RS PRO Pozidriv, PZ0 Tip
