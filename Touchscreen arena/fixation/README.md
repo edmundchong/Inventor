@@ -19,25 +19,15 @@
     - Supplier: FabLabs
  
 - **Magnets**
-    - Item:
-    - Supplier:
-    - Link:
+    - Item: RS PRO Neodymium Magnet 0.77kg, Width 5mm
+    - Supplier: RS
+    - Link: https://uk.rs-online.com/web/p/neodymium-magnets/2192245?searchId=8bb149b7-f721-4780-8e69-49bd446e42fc&gb=s
     - Quantity per rig: 4
 
 ## Assembly Steps (using Trotec + Corel Draw @ SWC Makerspace)
 1. Cut red lines in PDF and engrave black lines
 2. Use chloroform to melt together the pieces, according to the engraved guide lines
+3. Use epoxy to glue in the magnets. Their orientation should correspond to the magnets on the cheeseboard
 
-### laser cut instructions 
-
-- red clear acrylic 5mm
-- Trotec + Corel Draw @ SWC Makerspace 06.25.2024
-- cut (red lines) and engraving (black lines) done on separate cuts / using separate print files
-  - because I use separate settings for the engraving (different from the engraving settings for Acrylic 5mm cutting)
-- engraving
-  - use to guide where to glue the legs (fixation vXX base bottom engraving.pdf) or walls (fixation vXX base top engraving.pdf)
-  - set line width to 0.5 (not hairline)
-  - use the lightest engraving setting--I found one for 1.6mm acrylic
-- lines set to green will be ignored
 
  
