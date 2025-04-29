@@ -1,2 +1,2 @@
-Full instructions under 
+Full instructions under "Cam M6 Replacement" folder
 
