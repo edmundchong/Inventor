@@ -17,6 +17,12 @@
  
 - **Chloroform**
     - Supplier: FabLabs
+ 
+- **Magnets**
+    - Item:
+    - Supplier:
+    - Link:
+    - Quantity per rig: 4
 
 ## Assembly Steps (using Trotec + Corel Draw @ SWC Makerspace)
 1. Cut red lines in PDF and engrave black lines
