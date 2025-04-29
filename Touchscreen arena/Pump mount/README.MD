@@ -55,8 +55,8 @@ Pink wires: Arduino relay (connects to "closed" and "normally open" ports)
 Pink/white wires: Power supply
 ! +ve connections are marked with green sharpie on the wire and -ve connections are marked with blue. On the power cable, pink is +ve and white is -ve !
 
-**Instructions**
-    1. Make a power supply wire
+    **Instructions**
+        1. Make a power supply wire
     2. Cut a pink and white wire (approx 1 meter) and strip the ends
     3. Solder single pin to one end of each wire. This end will connect to the breadboard, the other can be naked wire that connects to shutters on female barrel jack
     4. The pink wire is +ve and the white is -ve
