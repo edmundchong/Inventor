@@ -1,9 +1,15 @@
 # Cam Mount Adapter Step by Step Assembly 
 
 ## Notes
-- mounting piece for the cheap ELP USB cameras off Amazon
-- this replaces the original on the camera--(screw threads 1/4-20)
-- the two small screws which attach the part to the camera, are #0
+- Mounting piece for the cheap ELP USB cameras off Amazon
+- This replaces the original on the camera--(screw threads 1/4-20). I made this change so that it is compatible with the rest of the setup which uses metric screws
+- The two small screws which attach the part to the camera, are #0
+- Digression
+  
+      - There are imperial t-slot nuts
+      - Thorlabs has 1/2" optical posts with imperial threads at the bottom
+      - And screw adapters to go from metric to imperial
+      - But there are some weird / difficult combinations and too much trouble in the end
 
 ## Materials
 1. **Camera**
@@ -19,8 +25,8 @@
     - Quantity per rig: 1
   
 3. **3D printed cam mount adapter**
-    - Link:
-    - Print Settings:
+    - Link: https://github.com/edmundchong/Inventor/blob/main/Touchscreen%20arena/Cam%20mount%20adapter/cam%20m6%20replacement/cam%20m6%20replacement%20v01.stl
+    - Print Settings: 
     - Quantity per rig: 1
   
 4. **Screws (M6 x 12MM)**
@@ -32,16 +38,8 @@
 ## Assembly Steps
 1. Print the adapter
 2. Tap the larger middle hole with M6
-
-
-- tap the larger hole with M6 (M6 X 12MM)
-- 
-- 
-  - screwdriver e.g. RS PRO Pozidriv, PZ0 Tip
-- I made this change so that it is compatible with the rest of the setup which uses metric screws
-    - digression:
-      - there are imperial t-slot nuts
-      - thorlabs has 1/2" optical posts with imperial threads at the bottom
-      - and screw adapters to go from metric to imperial
-      - but there are some weird / difficult combinations and too much trouble in the end
+3. Use the screwdriver to remove the old adapter that already comes with the camera
+4. Screw in the 3D printed adapter, making sure it is in the same orientation as the old
+5. Screw in the camera to the holder using an M6 x 12mm screw. Make sure the camera is pointing down towards the magnets on the holder. 
+     
 
