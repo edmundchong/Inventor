@@ -60,6 +60,7 @@
 
 ### Instructions
 ---
+**! Note: You can also add banks to the wires connecting the switch / pump, to make it easier to disconnect if needed. Without this, you would have to disconnect from the breadboard, and unsolder the switch to get the pump out**
 1. **Make a power supply wire**
 - Cut a pink and white wire (approx 1 meter) and strip the ends
 - Solder single pin to one end of each wire. This end will connect to the breadboard, the other can be naked wire that connects to shutters on female barrel jack
