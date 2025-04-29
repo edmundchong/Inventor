@@ -56,32 +56,32 @@ Pink/white wires: Power supply
 ! +ve connections are marked with green sharpie on the wire and -ve connections are marked with blue. On the power cable, pink is +ve and white is -ve !
 
 **Instructions**
-Make a power supply wire
-Cut a pink and white wire (approx 1 meter) and strip the ends
-Solder single pin to one end of each wire. This end will connect to the breadboard, the other can be naked wire that connects to shutters on female barrel jack
-The pink wire is +ve and the white is -ve
-Connect the +ve and -ve pins on seperate terminal strips on the breadboard (ie rows 20 and 21)
-Make a bank of 3 pins
-Cut 3 wires (approx 0.5 meter); two yellow (for pump) and one grey for switch). Strip the ends
-Solder the 3 wires onto a bank of 3 pins, as instructed in the diagram (yellow wires should be next to eachother)
-Connect the bank of 3 parallel to the power supply pins on the breadboard (ie so the bank of 3 spans 3 rows on the breadboard)
-Make a bank of 2 pins
-Cut 2 pink wires (approx 10cm) and strip the ends
-Solder the two wires to a bank of 2 pins. The other sides can be naked, they will connect to the arduino
-Connect the bank of 2 parallel to the bank of 3 on the breadboard, with the wire connecting to the closed port on the arduino in the middle port (in relation to the bank of 3)
-Make a grey switch wire
-Cut a grey wire (approx 0.5 meter) and strip the ends. This wire is the second one you need to connect the switch (the first is already in the bank of 3)
-Solder a single pin to one end of the wire
-Connect this pin on the middle row (in relation to the bank of 3), so that it's next to the wire connecting to the closed port on the arduino
-Connect the hardware
-Connect and solder the grey wire on the bank of 3 to one terminal on the physical switch. Connect the other single grey wire to the other terminal on the switch
-Connect and solder the two yellow wires on the bank of 3 to the pump. The +ve terminal on the pump should connect to the middle yellow wire in the bank of 3, and the -ve terminal should connect to the outermost yellow wire in the bank of 3.
-Connect the bank of 2 pink wires to the relay on the arduino shield. The middle wire (in relation to the bank of 3) connects to the "closed" port and the outermost wire connects to the "normally open" port
-Connect the power
-Plug in the power supply to the female barrel jack, and turn on at the wall
-Test the pump comes on and off via the physical switch connected by grey wires
-Plug the arduino into your PC, and upload the valve.ido file
-Test that the pump can be activated via the arduino code
+    1. Make a power supply wire
+    2. Cut a pink and white wire (approx 1 meter) and strip the ends
+    3. Solder single pin to one end of each wire. This end will connect to the breadboard, the other can be naked wire that connects to shutters on female barrel jack
+    4. The pink wire is +ve and the white is -ve
+    5. Connect the +ve and -ve pins on seperate terminal strips on the breadboard (ie rows 20 and 21)
+    6. Make a bank of 3 pins
+    7. Cut 3 wires (approx 0.5 meter); two yellow (for pump) and one grey for switch). Strip the ends
+    8. Solder the 3 wires onto a bank of 3 pins, as instructed in the diagram (yellow wires should be next to eachother)
+    9. Connect the bank of 3 parallel to the power supply pins on the breadboard (ie so the bank of 3 spans 3 rows on the breadboard)
+    Make a bank of 2 pins
+    Cut 2 pink wires (approx 10cm) and strip the ends
+    Solder the two wires to a bank of 2 pins. The other sides can be naked, they will connect to the arduino
+    Connect the bank of 2 parallel to the bank of 3 on the breadboard, with the wire connecting to the closed port on the arduino in the middle port (in relation to the bank of 3)
+    Make a grey switch wire
+    Cut a grey wire (approx 0.5 meter) and strip the ends. This wire is the second one you need to connect the switch (the first is already in the bank of 3)
+    Solder a single pin to one end of the wire
+    Connect this pin on the middle row (in relation to the bank of 3), so that it's next to the wire connecting to the closed port on the arduino
+    Connect the hardware
+    Connect and solder the grey wire on the bank of 3 to one terminal on the physical switch. Connect the other single grey wire to the other terminal on the switch
+    Connect and solder the two yellow wires on the bank of 3 to the pump. The +ve terminal on the pump should connect to the middle yellow wire in the bank of 3, and the -ve terminal should connect to the outermost yellow wire in the bank of 3.
+    Connect the bank of 2 pink wires to the relay on the arduino shield. The middle wire (in relation to the bank of 3) connects to the "closed" port and the outermost wire connects to the "normally open" port
+    Connect the power
+    Plug in the power supply to the female barrel jack, and turn on at the wall
+    Test the pump comes on and off via the physical switch connected by grey wires
+    Plug the arduino into your PC, and upload the valve.ido file
+    Test that the pump can be activated via the arduino code
 
 
 
