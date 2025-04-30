@@ -9,10 +9,10 @@
   - **Matte Black 3mm Acrylic**
     - Supplier: Stores
 
-  - **Magnets**
-    - Item:
-    - Supplier:
-    - Link:
+  - **Magnets (3mm)**
+    - Item: RS PRO Neodymium Magnet 0.55kg, Width 5mm
+    - Supplier: RS
+    - Link: https://uk.rs-online.com/web/p/neodymium-magnets/2192234?searchId=3441077b-dea4-4c95-9808-5b8db4ad8723&gb=s
     - Quantity per rig: 4
   
   - **Screws (M5 x 16mm; for cheeseboard mount)**
