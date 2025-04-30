@@ -3,20 +3,28 @@
 - The walls are attached to the base by sliding them in the strut groove 
 
 ## Materials
-- Acrylic
+- **Acrylic**
   - **Item**: 5mm Matte Black Acrylic
   - **Supplier**: Stores
   - **Quantity per rig**: 1 sheet
     
-- 20mm Struts
-  - **Product**: RS PRO Black Aluminium Profile Strut, 20 x 20 mm, 5mm Groove, 2000mm Length (RS 8508489)
+- **20mm Struts**
+  - **Item**: RS PRO Black Aluminium Profile Strut, 20 x 20 mm, 5mm Groove, 2000mm Length (RS 8508489)
   - **Supplier**: RS 
   - **Link**:https://uk.rs-online.com/web/p/tubing-and-profile-struts/8508489?searchId=0c98c4fb-aadc-498e-895a-6f0552b5592e&gb=s
   - **Quantity per rig**: 2 (this is enough to cut all the struts needed for base)
 
-- **Product**: M5 x 16mm hex socket cap screws(RS Components 281-085)
+- **Screws (M5 x 16mm; for vertical struts)**
+  - **Item**: RS PRO M5 x 16mm Hex Socket Cap Screw Plain Stainless Steel(RS Components 281-085)
   - **Supplier**: RS Components
   - **Link**: https://uk.rs-online.com/web/p/socket-screws/0281085?searchId=1431e92d-0b1f-45aa-b9b5-2b40314991dd&gb=s
+  - **Quantity per rig**: 6
+
+- **Screws (M5 x 10mm; for flat struts laying parallel to base)**
+  - **Item**: RS PRO M5 x 10mm Hex Socket Cap Screw Plain Stainless Steel (RS 281-063)
+  - **Supplier**: RS
+  - **Link**: https://uk.rs-online.com/web/p/socket-screws/0281063?gb=s
+  - **Quantity per rig**: 4
 
 ## Assembly Steps 
 1. Laser cut the base
