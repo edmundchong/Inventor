@@ -12,9 +12,9 @@
 - 3D printed door handle
 
 - Door handle screws
-    - **Product**: RS PRO M5 x 16mm Hex Socket Cap Screw Plain Stainless Steel(RS-281-085)
+    - **Product**: RS PRO M5 x 10mm Hex Socket Cap Screw Plain Stainless Steel(RS-281-063)
     - **Supplier**: RS
-    - **Link**: https://uk.rs-online.com/web/p/socket-screws/0281085?gb=s
+    - **Link**: https://uk.rs-online.com/web/p/socket-screws/0281063?searchId=b17fca8c-24e5-4e63-9c71-658905e909e5&gb=s
     - **Quantity per rig**: 2
   
 - Hinges
