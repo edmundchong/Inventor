@@ -28,12 +28,14 @@
 - **Screws for aluminium extrusion - connector** 
   - **Product**:M3 x 8mm screws (RS PRO M3 x 8mm Hex Socket Cap Screw Plain Stainless Steel - 280-997)
   - **Supplier**:RS
+  - **Quantity per rig**: 6
   - **Link**: https://uk.rs-online.com/web/p/socket-screws/0280997?gb=s
  
 - **Screws for connector - strut**
-  - **Product**:
-  - **Supplier**:
-  - **Link**:
+  - **Product**: M4 x 8mm screws (RS PRO M4 x 8mm Hex Socket Cap Screw Plain Stainless Steel)
+  - **Supplier**: RS
+  - **Quantity per rig**: 6
+  - **Link**: https://uk.rs-online.com/web/p/socket-screws/0281029?searchId=af59cacc-6eb5-4f7a-845e-40755675af67&gb=s
  
 - **12V Power supply**
   - **Product**: 12V 3A 36W Power Supply Cable Adapter for CCTV Security Camera, LED Strip Lights, LCD Monitor, Audio/Video, Router, Security Camera, UK plug, Wall Charger, 5.5 * 2.1mm
