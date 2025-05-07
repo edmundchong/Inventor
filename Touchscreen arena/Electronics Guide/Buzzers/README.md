@@ -18,10 +18,13 @@
 
 `Middle_buzzer_pink_wire` -> `pin 3`
 
+--
+
 `Left_buzzer_white_wire` -> `any GND on arduino`
 
 `Left_buzzer_pink_wire` -> `pin 6`
 
+--
 
 `Right_buzzer_white_wire` -> `any GND on arduino` 
 
