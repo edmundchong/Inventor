@@ -8,7 +8,6 @@
 2. CAP118
 3. Arduino UNO
 4. Jumpwire kit
-5. Power supply
 
 ## Intructions
 - Prepare 2 banks of 13 pins
@@ -26,6 +25,10 @@
   `CAP1188_SDA` : Pin A4
   
   `CAP1188_SCK / SCL` : Pin A5
+
+- Once connected, you need to connect your lick spout to the CAP118 sensor on the breadboard. This will be via a male jack that connects to the lick spout on one end, and a pin on the other end that connects to **CAP118_C8** on the breadboard.
+
+*For the lick spout connection, there is no negative wire. Just a positive wire wrapped around the lick spout, connected to a female jack -> positive wire connected to male jack -> pin on C8 breadboard*
 
 ## Setup and Usage
 
