@@ -40,6 +40,6 @@
 2. Tap the larger middle hole with M6
 3. Use the screwdriver to remove the old adapter that already comes with the camera
 4. Screw in the 3D printed adapter, making sure it is in the same orientation as the old
-5. Screw in the camera to the holder using an M6 x 12mm screw. Make sure the camera is pointing down towards the magnets on the holder. 
+5. Screw in the camera to the holder using an M6 x 10mm screw. Make sure the camera is pointing down towards the magnets on the holder. 
      
 
