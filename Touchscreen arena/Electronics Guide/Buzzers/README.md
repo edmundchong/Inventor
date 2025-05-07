@@ -29,3 +29,6 @@
 `Right_buzzer_white_wire` -> `any GND on arduino` 
 
 `Right_buzzer_pink_wire` -> `pin 9`
+
+3. Upload 3 buzzer ido to arduino via USB
+4. Test buzzers using bonsai hardware tester
