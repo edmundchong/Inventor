@@ -29,10 +29,10 @@
     - Print Settings: 
     - Quantity per rig: 1
   
-4. **Screws (M6 x 12MM)**
-     - Item: RS PRO M6 x 12mm Hex Socket Cap Screw Plain Stainless Steel
+4. **Screws (M6 x 10MM)**
+     - Item: RS PRO Stainless Steel Hex Socket Cap Screw, DIN 912, M6 x 10mm (797-6279)
      - Supplier: RS
-     - Link: https://uk.rs-online.com/web/p/socket-screws/0281108?gb=s
+     - Link: [https://uk.rs-online.com/web/p/socket-screws/0281108?gb=s](https://uk.rs-online.com/web/p/socket-screws/7976279?gb=s)
      - Quantity per rig: 1
 
 ## Assembly Steps
