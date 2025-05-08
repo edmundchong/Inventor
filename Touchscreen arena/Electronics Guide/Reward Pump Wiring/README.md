@@ -17,4 +17,7 @@
 1. Solder two yellow wires to the pump (label the positive one green and negative blue)
 2. Solder two grey wires to the switch (label positive and negative again)
 3. Twist together the 2 yellow wires + the negative grey wire (-> creates a bank of 3 pins)
-4. Connect pump wires, power supply and arduino to the breadboard according to the diagram
+4. Connect pump wires, power supply and arduino to the breadboard according to the diagram in the folder
+5. Connect power supply via the female jack 
+6. Upload arduino sketch for the valve
+7. Connect arduino to computer running bonsai, and use hardware tester to check the buzzers are working 
