@@ -11,7 +11,7 @@
 
 ## mounting the cameras (x2)
 0. see: https://github.com/edmundchong/Inventor/blob/main/Touchscreen%20arena/box%20walls/N%20wall%20cams/mounting%20instructions.pdf
-1. each cam connects by M6 setscrew (12mm) to Thorlabs TR30/M posts
+1. each cam connects by M6 setscrew (16mm) to Thorlabs TR30/M posts
   - but using the 3d printed adapter ("cam M6 replacement")
 2. TR30/M post slides into the 3d-printed RA180
   - the fit is tight--try to make the base of the post, flush with the base of the hole
