@@ -33,7 +33,9 @@
 ## Setup and Usage
 
 1. **Upload the Sketch**: Once you've connected the CAP118 sensor to your arduino, use the Arduino IDE to upload the provided sketch to your board.
-2. **Serial Monitor**: Open the Serial Monitor at a baud rate of 9600. You can then enter the following commands:
-   - **0-7**: Adjust sensitivity.
+2. **Serial Monitor**: Open the Serial Monitor and set baud rate of 9600. You can then enter the following commands:
+   - **0-7**: Adjust sensitivity (higher number = lower sensitivity). Start by setting sensitivity to **6**, and adjust as needed. 
    - **-1**: Reset the sensor and reapply configurations.
-3. **Touch Detection**: As you touch the sensor inputs, the Serial Monitor will display the touched channels, and the corresponding LEDs on the sensor will light up.
+3. **Touch Detection**: As you touch the spout, the Serial Monitor will display the touched channel (should be C8), and the corresponding LED on the sensor will light up.
+
+**! If the LED is constantly on, unplug the arduino and connect it again. Make sure breadboard is on a non-conductive surface, and that the sensitivity isn't too high (aka a lower command number on serial monitor) !**
