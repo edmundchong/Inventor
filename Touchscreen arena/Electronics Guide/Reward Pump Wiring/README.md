@@ -1,5 +1,11 @@
 # Reward Pump Electronics
 
+## peristaltic pump
+- KPP-DC-S04W
+- on Aliexpress order page, select options:
+  - 12V straight 
+  - Color: S04 (they just put different models under the "Color" option even though it is not about Color)
+
 ## Wiring Key
 ---
 **! The colours don't matter for the wiring - Below describes the wiring key you can see in the example photo !**
