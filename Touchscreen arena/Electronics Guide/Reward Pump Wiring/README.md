@@ -2,9 +2,6 @@
 
 ## peristaltic pump
 - KPP-DC-S04W
-- on Aliexpress order page, select options:
-  - 12V straight 
-  - Color: S04 (they just put different models under the "Color" option even though it is not about Color)
 
 ## Wiring Key
 ---
