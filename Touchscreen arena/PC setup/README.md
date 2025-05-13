@@ -3,7 +3,14 @@
 ## Computer details 
 - Computer Model:
 - Set up Akrami Lab account with no password
-- Make sure to disable automatic power off in settings 
+- Make sure to disable automatic power off in settings
+- Pin the following programs to taskbar, after installation
+    - On-screen keyboard
+    - Bonsai
+    - AnyDesk
+    - GitHub
+    - Notepad++
+    - File Explorer
 
 ## Step 1: Install new graphics card onto PC (for SLEAP)
 - **Component**: MSI GeForce RTX 3050 VENTUS 2X XS 8G OC Gaming Graphics Card - 8GB GDDR6, 1807 MHz, PCI Express Gen 4 x 8, 128-bit, 1x DP v 1.4a, HDMI 2.1 (Supports 4K)
