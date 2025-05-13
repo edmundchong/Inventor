@@ -32,6 +32,10 @@
 1. Insert card to the PCI port located on the right of the graphics card
 
 ## Step 4: Install AnyDesk 
+- After downloading AnyDesk, you **must install it as a windows service**, otherwise you'll run into remote access issues when the computer restarts
+- In the newest version of AnyDesk, "Install AnyDesk" can be found on the home page, as a red news pop up. Follow instructions on the pop up to install
+- Set the permissions as "unattended", and set up security so only specific computer IDs can remote access.
+- Make sure wake on LAN is enabled
 
 ## Step 5: Set up access to CEPH
 - Map network drive -> type in directory for ceph (you can find it on file explorer, on a computer that already has ceph)
