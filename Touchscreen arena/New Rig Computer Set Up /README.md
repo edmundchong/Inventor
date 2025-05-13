@@ -1,7 +1,9 @@
 # Setting Up New Behavioural Rigs
 
 ## Computer details 
-- From IT: 
+- Computer Model:
+- Set up Akrami Lab account with no password
+- Make sure to disable automatic power off in settings 
 
 ## Step 1: Install new graphics card onto PC (for SLEAP)
 - **Component**: MSI GeForce RTX 3050 VENTUS 2X XS 8G OC Gaming Graphics Card - 8GB GDDR6, 1807 MHz, PCI Express Gen 4 x 8, 128-bit, 1x DP v 1.4a, HDMI 2.1 (Supports 4K)
@@ -15,9 +17,9 @@
 4. Run PC to make sure the graphics card is recognised in Device Manager (full name of card should be listed)
 
 ## Step 2: Install serial port / PS2 connector (for touchscreen)
-- **Component**: HP PS2/COM2 RS232 DB9 Serial Port with Cable 910110-002 910324-001
-- **Supplier**: Ebay
-- **Link**: https://www.ebay.co.uk/itm/187007195418?chn=ps&_ul=GB&norover=1&mkevt=1&mkrid=710-134428-41853-0&mkcid=2&mkscid=101&itemid=187007195418&targetid=2406300041925&device=c&mktype=pla&googleloc=9045997&poi=&campaignid=21697381820&mkgroupid=171410935890&rlsatarget=pla-2406300041925&abcId=10027101&merchantid=10075534&gad_source=1&gad_campaignid=21697381820&gbraid=0AAAAAD_Lr1eXy7PhzBe6GVcQ475WFUNmh&gclid=CjwKCAjw24vBBhABEiwANFG7ywkT0rdqeEcu5CRcI0Yhw_OOJbS2xyjv7WQYsJRHzLvAv2hfgwYKchoCeZQQAvD_BwE
+- **Component**: Adaptateur HP PCIe interne vers 2x ports PS/2, Série DB9
+- **Supplier**: Amazon
+- **Link**: https://www.amazon.co.uk/dp/B077YLQGGR
 
 ### Instructions 
 1. Unscrew and remove old metal backing from the connector, and replace with the longer version that fits onto the PC
@@ -43,3 +45,5 @@
 ## Step 6: Access ceph -> Edmund -> software for 172 rigs
 - Copy all of the files in this location, and paste locally to your downloads folder
 - Install all of the files individually (use default settings for all the installations)
+
+
