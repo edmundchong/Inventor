@@ -53,3 +53,5 @@
 - Navigate to folder where Bonsai is installed on the new rig (right click on bonsai icon -> properties -> copy file path in "start in"). In this folder, you will find "Extensions". Paste all of the extensions from the ceph folder here. 
 
 **! Note: When searching for the packages, use the *exact* ID for the package. The search is case sensitive, and will not give you an error if you've made a typo !**
+
+## Step 8: Set up rig params
