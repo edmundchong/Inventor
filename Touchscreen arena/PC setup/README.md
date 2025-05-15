@@ -2,7 +2,7 @@
 
 ## Computer details 
 - Computer Model:
-- Set up Akrami Lab account with no password
+- Set up Akrami Lab account with no password (the username must be **akramilab**, otherwise there'll be errors with bonsai paths)
 - Make sure to disable automatic power off in settings
 - Pin the following programs to taskbar, after installation
     - On-screen keyboard
