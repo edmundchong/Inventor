@@ -64,10 +64,12 @@
 ## Step 8: Set up rat launcher 
 - Navigate to C:\clamlab\bonsai\ratLauncher\dist
 - Pin the icon to the start bar
+- In C:Drive, create a "**Data**" folder (this must be its exact name, with cap sensitivity)
 - In rig params folder (C:Drive), insert a random rat photo into "rat_photos" (this is to avoid an error later)
-- AnyDesk into another rig and also copy over the "pushover" file in the rig params folder onto ceph, and then from there into the new computers rig params folder. 
+- AnyDesk into another rig and also copy over the "pushover" file in the rig params folder onto ceph, and then from there into the new computers rig params folder.
+- Once copied to new computer C:Drive, delete the file from ceph
 
-## Step 9: Set up cameras on bonsai 
+## Step 10: Set up cameras on bonsai 
 - Double click on each of the cameras in hardware tester, and identify which are labelled 0, 1 and 2 on the right panel
 - Edit the rig params in notepad++, so that "screencam" and "fixationsidecam" are labelled with the corresponding numbers on bonsai (0, 1 or 2)
 - Top cam is different. Go to C:Drive -> rig params -> topcam module (bonsai)
