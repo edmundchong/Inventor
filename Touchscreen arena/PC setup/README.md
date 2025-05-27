@@ -64,6 +64,7 @@
 
 ## Step 8: Set up rat launcher 
 - Get Edmund to log in to GitHub Desktop and clone the required repos from clamlab into C:Drive (**in the following order**) :
+
       1. Name of repo : Bonsai (local path destination -> C:\clamlab\bonsai)
 
       2. Name of repo: rig_params (local path destination -> C:\rig_params)
