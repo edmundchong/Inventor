@@ -64,10 +64,16 @@
 
 ## Step 8: Set up rat launcher 
 - Get Edmund to log in to GitHub Desktop and clone the required repos from clamlab into C:Drive (**in the following order**) :
-      - Name of repo : Bonsai (local path destination -> C:\clamlab\bonsai)
-      - Name of repo: rig_params (local path destination -> C:\rig_params)
-      - Name of repo: rat-params (local path destination -> C:\rig_params\rat-params)
-      - Name of repo: SLEAP_networks (local path desination -> C:\clamlab\SLEAP_networks) **!Different to SLEAP repo!**
+      1. Name of repo : Bonsai (local path destination -> C:\clamlab\bonsai)
+
+      2. Name of repo: rig_params (local path destination -> C:\rig_params)
+
+      3. Name of repo: rat-params (local path destination -> C:\rig_params\rat-params)
+
+      4. Name of repo: SLEAP_networks (local path desination -> C:\clamlab\SLEAP_networks) **!Different to SLEAP repo!**
+
+      5. Name of repo: Milker (local path destination -> C:\clamlab\milker)
+  
 - Navigate to C:\clamlab\bonsai\ratLauncher\dist
 - Pin the icon to the start bar
 - In C:Drive, create a "**Data**" folder (this must be its exact name, with cap sensitivity)
