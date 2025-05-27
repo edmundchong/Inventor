@@ -90,9 +90,9 @@
 
 ## Step 10: Connect the touchscreen to the computer 
 - Connect the power, HDMI and VGA cable from touchscreen -> PC
-- 
+- Run nexio tester (C:\clamlab\bonsai\NexioTouch) to check the touchscreen is working and calibrated (touch the inside of the circles to make sure the pointer is accurate)
 
-## Step 10: Set up cameras on bonsai 
+## Step 11: Set up cameras on bonsai 
 - Double click on each of the cameras in hardware tester, and identify which are labelled 0, 1 and 2 on the right panel
 - Edit the rig params in notepad++, so that "screencam" and "fixationsidecam" are labelled with the corresponding numbers on bonsai (0, 1 or 2)
 - Top cam is different. Go to C:Drive -> rig params -> topcam module (bonsai)
