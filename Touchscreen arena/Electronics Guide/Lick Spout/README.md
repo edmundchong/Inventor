@@ -2,11 +2,13 @@
 
 ## Notes 
 - Full details can be found at https://github.com/clamlab/bonsai/tree/main/Lick/cap1188
+- Full wiring guide: https://learn.adafruit.com/adafruit-cap1188-breakout/wiring
+- The folllowing instructions are specific to **Arduino UNO R3**
 
 ## Materials 
 1. Breadboard
 2. CAP118
-3. Arduino UNO (you can also use a mega, but the connections are different)
+3. Arduino UNO R3 (you can also use a mega, but the connections are different)
 4. Jumpwire kit
 
 ## Intructions
@@ -22,9 +24,9 @@
   
   `CAP1188_VIN` : 5V power pin
   
-  `CAP1188_SDA` : Pin A4
+  `CAP1188_SDA` : Pin A4 or SDA pin
   
-  `CAP1188_SCK / SCL` : Pin A5
+  `CAP1188_SCK / SCL` : Pin A5 or SCL pin
 
 - Once connected, you need to connect your lick spout to the CAP118 sensor on the breadboard. This will be via a male jack that connects to the lick spout on one end, and a pin on the other end that connects to **CAP118_C8** on the breadboard.
 
