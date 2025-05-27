@@ -97,3 +97,10 @@
 - Edit the rig params in notepad++, so that "screencam" and "fixationsidecam" are labelled with the corresponding numbers on bonsai (0, 1 or 2)
 - Top cam is different. Go to C:Drive -> rig params -> topcam module (bonsai)
 - click on camera capture and change the index number to the corresponding number on the bonsai hardware tester (0,1 or 2)
+
+## Step 12: Run the rat launcher
+- Test that everything is working by running the rat launcher and going through all the calibration steps
+  1. Check that the buzzers sound
+  2. Check that the valve activates
+  3. Check that the lick spout responds to touch
+  4. Check that the trial commences
