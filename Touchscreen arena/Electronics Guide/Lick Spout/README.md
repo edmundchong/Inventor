@@ -6,7 +6,7 @@
 ## Materials 
 1. Breadboard
 2. CAP118
-3. Arduino UNO
+3. Arduino UNO (you can also use a mega, but the connections are different)
 4. Jumpwire kit
 
 ## Intructions
