@@ -45,6 +45,7 @@
 - In the newest version of AnyDesk, "Install AnyDesk" can be found on the home page, as a red news pop up. Follow instructions on the pop up to install
 - Set the permissions as "unattended", and set up security so only specific computer IDs can remote access.
 - Make sure wake on LAN is enabled
+- Set up AnyDesk so you can access it from your desk PC
 
 ## Step 5: Set up access to CEPH
 - Map network drive -> type in directory for ceph (you can find it on file explorer, on a computer that already has ceph)
