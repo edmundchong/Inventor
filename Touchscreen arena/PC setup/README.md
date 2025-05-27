@@ -63,6 +63,7 @@
 **! Note: When searching for the packages, use the *exact* ID for the package. The search is case sensitive, and will not give you an error if you've made a typo !**
 
 ## Step 8: Set up rat launcher 
+- Get Edmund to log in to GitHub Desktop and clone the required repos
 - Navigate to C:\clamlab\bonsai\ratLauncher\dist
 - Pin the icon to the start bar
 - In C:Drive, create a "**Data**" folder (this must be its exact name, with cap sensitivity)
