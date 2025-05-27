@@ -82,6 +82,16 @@
 - AnyDesk into another rig and also copy over the "pushover" file in the rig params folder onto ceph, and then from there into the new computers rig params folder.
 - Once copied to new computer C:Drive, delete the file from ceph
 
+## Step 9: Connect all your hardware and run hardware testers
+- Connect the lick, buzzer and valve to the computer
+- Upload the .ino sketches (from clamlab/bonsai gitub) to each arduino
+- Remember to change the COM ports in the rig params for each piece of hardware, to match the ones listed in the arduino software
+- Run hardware tester (under C:\clamlab\bonsai\Touchscreen_pSWM_v02) to check all components work
+
+## Step 10: Connect the touchscreen to the computer 
+- Connect the power, HDMI and VGA cable from touchscreen -> PC
+- 
+
 ## Step 10: Set up cameras on bonsai 
 - Double click on each of the cameras in hardware tester, and identify which are labelled 0, 1 and 2 on the right panel
 - Edit the rig params in notepad++, so that "screencam" and "fixationsidecam" are labelled with the corresponding numbers on bonsai (0, 1 or 2)
