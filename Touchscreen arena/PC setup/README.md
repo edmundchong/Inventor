@@ -67,6 +67,7 @@
       - Name of repo : Bonsai (local path destination -> C:\clamlab\bonsai)
       - Name of repo: rig_params (local path destination -> C:\rig_params)
       - Name of repo: rat-params (local path destination -> C:\rig_params\rat-params)
+      - Name of repo: SLEAP_networks (local path desination -> C:\clamlab\SLEAP_networks) **!Different to SLEAP repo!**
 - Navigate to C:\clamlab\bonsai\ratLauncher\dist
 - Pin the icon to the start bar
 - In C:Drive, create a "**Data**" folder (this must be its exact name, with cap sensitivity)
