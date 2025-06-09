@@ -9,3 +9,10 @@ One panel requires:
 - 3 x switch holders
 - 3 x arduino holders
 - 6 x arduino-breadboard holders
+
+## 3D printing guidance
+- For the switch holders use the following settings (otherwise the supports are really hard to remove!)
+    - Support overhang angle: 60
+    - Support density: 50%
+    - Support structure: normal
+- The rest of the settings can be default (Extra fast draft, triangle infill at 20%)
