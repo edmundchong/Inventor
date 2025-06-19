@@ -1,0 +1,3 @@
+- mount on soundproof box with M5 x 50mm (e.g. 483-8297)
+- Fan model: Multicomp pro MC002108 / Farnell 2816687
+- 24V 0.22A power supply

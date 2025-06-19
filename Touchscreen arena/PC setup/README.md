@@ -2,8 +2,15 @@
 
 ## Computer details 
 - Computer Model:
-- Set up Akrami Lab account with no password
-- Make sure to disable automatic power off in settings 
+- Set up Akrami Lab account with no password (the username must be **akramilab**, otherwise there'll be errors with bonsai paths)
+- Make sure to disable automatic power off in settings
+- Pin the following programs to taskbar, after installation
+    - On-screen keyboard
+    - Bonsai
+    - AnyDesk
+    - GitHub
+    - Notepad++
+    - File Explorer
 
 ## Step 1: Install new graphics card onto PC (for SLEAP)
 - **Component**: MSI GeForce RTX 3050 VENTUS 2X XS 8G OC Gaming Graphics Card - 8GB GDDR6, 1807 MHz, PCI Express Gen 4 x 8, 128-bit, 1x DP v 1.4a, HDMI 2.1 (Supports 4K)
@@ -38,6 +45,7 @@
 - In the newest version of AnyDesk, "Install AnyDesk" can be found on the home page, as a red news pop up. Follow instructions on the pop up to install
 - Set the permissions as "unattended", and set up security so only specific computer IDs can remote access.
 - Make sure wake on LAN is enabled
+- Set up AnyDesk so you can access it from your desk PC
 
 ## Step 5: Set up access to CEPH
 - Map network drive -> type in directory for ceph (you can find it on file explorer, on a computer that already has ceph)
@@ -54,4 +62,45 @@
 
 **! Note: When searching for the packages, use the *exact* ID for the package. The search is case sensitive, and will not give you an error if you've made a typo !**
 
-## Step 8: Set up rig params
+## Step 8: Set up rat launcher 
+- Get Edmund to log in to GitHub Desktop and clone the required repos from clamlab into C:Drive (**in the following order**) :
+
+      1. Name of repo : Bonsai (local path destination -> C:\clamlab\bonsai)
+
+      2. Name of repo: rig_params (local path destination -> C:\rig_params)
+
+      3. Name of repo: rat-params (local path destination -> C:\rig_params\rat-params)
+
+      4. Name of repo: SLEAP_networks (local path desination -> C:\clamlab\SLEAP_networks) **!Different to SLEAP repo!**
+
+      5. Name of repo: Milker (local path destination -> C:\clamlab\milker)
+  
+- Navigate to C:\clamlab\bonsai\ratLauncher\dist
+- Pin the icon to the start bar
+- In C:Drive, create a "**Data**" folder (this must be its exact name, with cap sensitivity)
+- In rig params folder (C:Drive), insert a random rat photo into "rat_photos" (this is to avoid an error later)
+- AnyDesk into another rig and also copy over the "pushover" file in the rig params folder onto ceph, and then from there into the new computers rig params folder.
+- Once copied to new computer C:Drive, delete the file from ceph
+
+## Step 9: Connect all your hardware and run hardware testers
+- Connect the lick, buzzer and valve to the computer
+- Upload the .ino sketches (from clamlab/bonsai gitub) to each arduino
+- Remember to change the COM ports in the rig params for each piece of hardware, to match the ones listed in the arduino software
+- Run hardware tester (under C:\clamlab\bonsai\Touchscreen_pSWM_v02) to check all components work
+
+## Step 10: Connect the touchscreen to the computer 
+- Connect the power, HDMI and VGA cable from touchscreen -> PC
+- Run nexio tester (C:\clamlab\bonsai\NexioTouch) to check the touchscreen is working and calibrated (touch the inside of the circles to make sure the pointer is accurate)
+
+## Step 11: Set up cameras on bonsai 
+- Double click on each of the cameras in hardware tester, and identify which are labelled 0, 1 and 2 on the right panel
+- Edit the rig params in notepad++, so that "screencam" and "fixationsidecam" are labelled with the corresponding numbers on bonsai (0, 1 or 2)
+- Top cam is different. Go to C:Drive -> rig params -> topcam module (bonsai)
+- click on camera capture and change the index number to the corresponding number on the bonsai hardware tester (0,1 or 2)
+
+## Step 12: Run the rat launcher
+- Test that everything is working by running the rat launcher and going through all the calibration steps
+  1. Check that the buzzers sound
+  2. Check that the valve activates
+  3. Check that the lick spout responds to touch
+  4. Check that the trial commences
