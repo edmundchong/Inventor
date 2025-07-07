@@ -9,6 +9,14 @@
     - Supplier: AliExpress
     - Link: https://www.aliexpress.com/i/1852036314.html
     - Quantity per rig: 1
+
+3. **Tubing**
+    - Item: 4AJ-9205301 (Silicon tubing catalogue): 3mm OD, 1mm ID (**1mm x 1mm**)
+    - Supplier: UCL marketplace silicone tubing catalogue (Lab Unlimited; searchable by item code)
+    - Link: https://www.sci-ware-customer.com/sword/catalogueItem.do?context=search&key=1183259422
+    - Length for one rig:
+
+
 3. **Toggle Switch**
     - Item:RS PRO Toggle Switch, Panel Mount, On-Off, SPST, Solder Terminal, 28V dc (RS 734-7154)
     - Supplier: RS
