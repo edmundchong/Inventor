@@ -16,3 +16,5 @@ Mihály Vöröslakos, Peter C. Petersen, Balázs Vöröslakos, György Buzsáki
 bioRxiv 2020.12.20.423655; doi: https://doi.org/10.1101/2020.12.20.423655 
 
 The designs are desitributed under GNU GPLv3 license.
+
+- The U shaped pins for the cap should measure 13.5mm in width
