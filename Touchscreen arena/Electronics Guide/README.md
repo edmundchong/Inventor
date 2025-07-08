@@ -5,6 +5,9 @@
 - Arduino Uno with CAP118 on breadboard (-> lick spout)
 - Arduino Uno only (no breadboard) (-> buzzers)
 
+- Wire dimensions
+  - 
+
 ## Notes
 - Length of wires should be approx 1.5 meters (~2 arms length). This is to account for the reach between the rig and the electronics panel housing the arduino / Breadboards.
 - When moving rigs into the behavioural room, the following is the easiest order of assembly:
