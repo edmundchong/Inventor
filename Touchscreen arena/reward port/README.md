@@ -18,8 +18,9 @@ place ice packs with milk to prevent it from curdling throughout the day
 - **Supplier**: Merck (Z763195) 
 - **Link**: https://www.sigmaaldrich.com/GB/en/product/sigma/z763195
 - **Instructions**:
-      1. Fill a ziplock bag with frozen mini ice packs
+      1. Fill a bag with frozen mini ice packs
       2. Place the centrifuge tube containing milk into the bag, and secure
+      3. example bags: Bryson Packaging™ BAJ-360-140M (stocks at SWC stores)
 
   -------
 
