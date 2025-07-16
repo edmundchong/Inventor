@@ -1,0 +1,3 @@
+- for SPI cable, can glue magnets beside connector for tighter connection during freely moving rat behavior--it helps improve signal
+- Recommended by Tahl (Cambridge Neuro): 5 x 2.5 x 1.5mm thick 45H Neodymium Magnet - 0.4kg Pull
+  - https://www.first4magnets.com/product/5-x-25-x-15mm-thick-45h-neodymium-magnet-04kg-pull-20402#ps_0_3659%7Cps_undefined
