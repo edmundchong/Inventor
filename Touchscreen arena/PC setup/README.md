@@ -49,6 +49,9 @@
 
 ## Step 5: Set up access to CEPH
 - Map network drive -> type in directory for ceph (you can find it on file explorer, on a computer that already has ceph)
+- The directory is as follows :
+
+- \\ceph-gw02.hpc.swc.ucl.ac.uk\akrami
 
 ## Step 6: Access ceph -> Edmund -> software for 172 rigs
 - Copy all of the files in this location, and paste locally to your downloads folder
