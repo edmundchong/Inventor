@@ -59,7 +59,11 @@
 
 ## Step 7: Install Bonsai packages and extensions
 - Open Bonsai in an already running rig -> manage packages
-- Install all of the same packages on the new rig you're setting up
+- Install all of the same packages on the new rig you're setting up:
+    1.
+
+
+  
 - Navigate to software for 172 rigs on CEPH, and open the extensions folder. Copy all of the extensions in the folder
 - Navigate to folder where Bonsai is installed on the new rig (right click on bonsai icon -> properties -> copy file path in "start in"). In this folder, you will find "Extensions". Paste all of the extensions from the ceph folder here. 
 
