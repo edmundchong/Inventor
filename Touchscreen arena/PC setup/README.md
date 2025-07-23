@@ -33,7 +33,7 @@
 2. Connect to the PCI port located on the left of the graphics card
 
 ## Step 3: Install 4 port PCI express (for cameras)
-- **Component**: StarTech.com 4 Port USB A PCIe USB 3.0 Card (RS 138-3565)
+- **Component**: StarTech.com 4 Port USB A PCIe USB 3.0 Card, **PEXUSB3S44V** (RS 138-3565)
 - **Supplier**: RS
 - **Link**: https://uk.rs-online.com/web/p/usb-cards/1383565?cm_mmc=UK-PLA-DS3A-_-google-_-CSS_UK_EN_PMAX_LowROAS_L2-_--_-1383565&matchtype=&&gad_source=1&gad_campaignid=22339197244&gbraid=0AAAAADkeWNPdFbAoA3tX9sAl9m-G-bsW3&gclid=CjwKCAjw24vBBhABEiwANFG7y3MChdZIT123CBEqtmVuPkxZq3Q2qDakrEDiBPYrW5Cja-kL7sHb5hoCLDYQAvD_BwE&gclsrc=aw.ds
 
