@@ -33,7 +33,7 @@
 2. Connect to the PCI port located on the left of the graphics card
 
 ## Step 3: Install 4 port PCI express (for cameras)
-- **Component**: StarTech.com 4 Port USB A PCIe USB 3.0 Card (RS 138-3565)
+- **Component**: StarTech.com 4 Port USB A PCIe USB 3.0 Card, **PEXUSB3S44V** (RS 138-3565)
 - **Supplier**: RS
 - **Link**: https://uk.rs-online.com/web/p/usb-cards/1383565?cm_mmc=UK-PLA-DS3A-_-google-_-CSS_UK_EN_PMAX_LowROAS_L2-_--_-1383565&matchtype=&&gad_source=1&gad_campaignid=22339197244&gbraid=0AAAAADkeWNPdFbAoA3tX9sAl9m-G-bsW3&gclid=CjwKCAjw24vBBhABEiwANFG7y3MChdZIT123CBEqtmVuPkxZq3Q2qDakrEDiBPYrW5Cja-kL7sHb5hoCLDYQAvD_BwE&gclsrc=aw.ds
 
@@ -58,12 +58,72 @@
 - Install all of the files individually (use default settings for all the installations)
 
 ## Step 7: Install Bonsai packages and extensions
+
 - Open Bonsai in an already running rig -> manage packages
-- Install all of the same packages on the new rig you're setting up:
-    1.
-
-
+- Install all of the same packages on the new rig you're setting up :
   
+    1. Bonsai
+
+    2. Bonsai.Arduino
+ 
+    3. Bonsai.Audio
+ 
+    4. Bonsai.Core
+ 
+    5. Bonsai.Design
+ 
+    6. Bonsai.Design.Visualizers
+ 
+    7. Bonsai.Dsp
+ 
+    8. Bonsai.Dsp.Design
+ 
+    9. Bonsai.Editor
+ 
+    10. Bonsai.Gui
+ 
+    11. Bonsai.Numerics
+ 
+    12. Bonsai.Osc
+ 
+    13. Bonsai.Scripting
+ 
+    14. Bonsai.Scripting.Expressions
+ 
+    15. Bonsai.Scripting.Expressions.Design
+ 
+    16. Bonsai.Scripting.IronPython
+ 
+    17. Bonsai.Scripting.IronPython.Design
+ 
+    18. Bonsai.Shaders
+ 
+    19. Bonsai.Shaders.Design
+ 
+    20. Bonsai.Shaders.Rendering
+ 
+    21. Bonsai.Sleap
+ 
+    22. Bonsai.Sleap.Design
+ 
+    23. Bonsai.StarterPack
+ 
+    24. Bonsai.System
+ 
+    25. Bonsai.System.Design
+ 
+    26. Bonsai.Vision
+ 
+    27. Bonsai.Vision.Design
+ 
+    28. Bonsai.VR
+ 
+    29. Bonsai.Windows.Input
+ 
+    30. IronPython
+ 
+    31. IronPython.StdLib
+
 - Navigate to software for 172 rigs on CEPH, and open the extensions folder. Copy all of the extensions in the folder
 - Navigate to folder where Bonsai is installed on the new rig (right click on bonsai icon -> properties -> copy file path in "start in"). In this folder, you will find "Extensions". Paste all of the extensions from the ceph folder here. 
 
