@@ -1,0 +1,2 @@
+- to strengthen SPI cable connections, can hot glue 
+- use Dremel 940--reversible by using blade to scrape off glue later
