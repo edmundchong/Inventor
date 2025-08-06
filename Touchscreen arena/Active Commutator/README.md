@@ -25,7 +25,7 @@ These build instructions are simplified, based on the OpenMac Commutator paper (
 4. Align the stepper motor to the main gear, and close the whole thing with the slip ring stage (secured with M2.5 x 8mm screws)
 5. You can then mount the main top case B over the entire build (this is the main casing shaft, that forms the outside of the commutator). This is secured with 3 screws M2.5 x 8mm screws
 
-## Step 5: Prepare top PCB
+## Step 5: Mount top PCB
 1. The top PCB mount is screwed into the main casing shaft (top case B) using 4 screws (M2.5 x 8mm)
 2. The slip wing wires will be coming out below the top PCB, and can be threaded through the cut out in the PCB
 3. Connect all the wires from the slip ring to the PCB as follows. There should be 3 bundles of connections on your top PCB:
@@ -35,4 +35,18 @@ These build instructions are simplified, based on the OpenMac Commutator paper (
 
 **NOTE: There is also a 2nd MCU OUT2 bank. You don't need this, its for an optional I2C connection**
 
-5. The square 3D printed part is then sandwiched on top and secured with
+5. The square 3D printed part is then sandwiched on top and secured with M2.5 X 8mm screws
+
+## Step 6: Mount bottom PCB 
+1. On the other side of the slip ring, thread all the wires through the circular opening in Bottom Case A
+2. Connect all the wires to the bottom PCB as follows. There should be 2 bundles of wires in your bottom PCB:
+- The hall sensor wires are inserted into the 4 pins located next to the sensor switch. This matches exactly to the top PCB, in terms of which colour wire goes where
+- The SPI wires are soldered directly onto the OE1 and OE2 pin banks, in inverted order (ie if red goes to T1 on top PCB, red goes to B1 on bottom PCB etc)
+
+**NOTE: These wire connections should be facing the underside of the PCB, such that when you insert the PCB into the circular casing, the wires will be sandwiched between the PCB and 3D printed part. This will allow you to close the casing**
+
+3. Screw in the bottom PCB to the Bottom Case A, the same as you did with the top PCB, with the wires tucked in underneath.
+4. Leave this section exposed for now, as next you will need to mount the magnets into the bottom case B, before being able to close the bottom case
+
+
+
