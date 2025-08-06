@@ -5,10 +5,17 @@ These build instructions are simplified, based on the OpenMac Commutator paper (
 ## Step 1: Print and prepare all 3D printed components 
   1. Submit all files in the STL folder to fablabs for printing.
   2. Secure brass inserts into all mounting holes with a soldering iron (M3 x 4mm into the slip ring stage, M2.5 x 5.7mm everywhere else)
+  3. Insert the magnets into the magnet holder, and secure with a tiny bit of epoxy (the direction of polarity should match both magnets).
+  4. Insert the smaller bearing into the central circular groove at the external bottom of bottom case B
+  5. Then take your bottom case C, and sandwich that onto the bearing. Close the sandwich with 4 M2.5 x 8mm screws
+  6. Put a M3 x 40mm screw through the magnet holder to make a T shape, and then insert this into the bottom casing, so the screw sticks out through the bearing sandwich.
+  7. Secure the T shaped magnet holder with a gold brass insert
+  8. On the end of the M3 x 40mm screw, insert the hook that holds your SPI cable. Use some epoxy or hot glue to secure it.
+  9. This is now ready to be assembled with the rest of the commutator at the end of the build 
 
 ## Step 2: Prepare slip ring
 1. Cut off 6 wires on each side of the slip ring (you only need 28 wires total, however the senring slip ring only comes with 36; these are excess so get rid)
-2. Seperate the remaining 30 wires into 3 bundles:
+2. Seperate the remaining 28 wires into 3 bundles:
 - SPI Channel A: 12 wires
 - SPI Channel B: 12 wires
 - Hall sensor: 4 wires
@@ -46,7 +53,9 @@ These build instructions are simplified, based on the OpenMac Commutator paper (
 **NOTE: These wire connections should be facing the underside of the PCB, such that when you insert the PCB into the circular casing, the wires will be sandwiched between the PCB and 3D printed part. This will allow you to close the casing**
 
 3. Screw in the bottom PCB to the Bottom Case A, the same as you did with the top PCB, with the wires tucked in underneath.
-4. Leave this section exposed for now, as next you will need to mount the magnets into the bottom case B, before being able to close the bottom case
+4. Take your bottom case A (containing your magnet holder) and close it onto bottomn case A. Secure with screws
+
+**You should now have a fully built commutator. Refer to the arduino folder for coding instructions**
 
 
 
