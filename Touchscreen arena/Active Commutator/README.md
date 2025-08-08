@@ -14,7 +14,7 @@ These build instructions are simplified, based on the OpenMac Commutator paper (
   9. This is now ready to be assembled with the rest of the commutator at the end of the build 
 
 ## Step 2: Prepare slip ring
-1. Cut off 6 wires on each side of the slip ring (you only need 28 wires total, however the senring slip ring only comes with 36; these are excess so get rid)
+1. Cut off 8 wires on each side of the slip ring (you only need 28 wires total, however the senring slip ring only comes with 36; these are excess so get rid)
 2. Seperate the remaining 28 wires into 3 bundles:
 - SPI Channel A: 12 wires
 - SPI Channel B: 12 wires
