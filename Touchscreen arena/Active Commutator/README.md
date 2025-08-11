@@ -1,6 +1,6 @@
 # BUILD INSTRUCTIONS (OpenMac Active Commutator)
 
-These build instructions are simplified, based on the OpenMac Commutator paper (https://www.sciencedirect.com/science/article/pii/S2468067223000366#s0045)
+These build instructions are based on the OpenMac Commutator paper, optimised for two SPI cables (https://www.sciencedirect.com/science/article/pii/S2468067223000366#s0045)
 
 ## Step 1: Print and prepare all 3D printed components 
   1. Submit all files in the STL folder to fablabs for printing.
