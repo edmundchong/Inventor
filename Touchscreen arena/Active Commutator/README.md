@@ -30,7 +30,8 @@ These build instructions are based on the OpenMac Commutator paper, optimised fo
 2. Mount the smaller gear onto the stepper motor. The stepper motor can then be directly mounted to centre case A (the two lower podiums)
 3. Mount the wider gear onto center case B (the wide bearing)
 4. Align the stepper motor to the main gear, and close the whole thing with the slip ring stage (secured with M2.5 x 8mm screws)
-5. You can then mount the main top case B over the entire build (this is the main casing shaft, that forms the outside of the commutator). This is secured with 3 screws M2.5 x 8mm screws
+5. Mount the slip ring onto the slip ring stage (the rotating portion should be facing down towards the bearings)
+6. You can then mount the main top case B over the entire build (this is the main casing shaft, that forms the outside of the commutator). This is secured with 3 screws M2.5 x 8mm screws
 
 ## Step 5: Mount top PCB
 1. The top PCB mount is screwed into the main casing shaft (top case B) using 4 screws (M2.5 x 8mm)
