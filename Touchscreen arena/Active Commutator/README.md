@@ -15,11 +15,13 @@ These build instructions are based on the OpenMac Commutator paper, optimised fo
 
 ## Step 2: Prepare slip ring
 1. Cut off 8 wires on each side of the slip ring (you only need 28 wires total, however the senring slip ring only comes with 36; these are excess so get rid)
-2. Seperate the remaining 28 wires into 3 bundles:
+2. Cut all the wires on both side to measure approx 10cm (this is a bit longer than you need, just to be safe)
+3. Seperate the 28 wires into 3 bundles:
 - SPI Channel A: 12 wires
 - SPI Channel B: 12 wires
 - Hall sensor: 4 wires
-3. Strip the ends of all the wires
+3. Strip the ends of all the wires and pre-solder to stop the ends from fraying
+4. Colour code the bundles with small bits of shrink wrap (use the smallest size possible - if you add too much thickness to the bundles, it won't fit thorugh the gear hole)
 
 ## Step 3:Prepare the top and bottom PCBs
 1. Roger should be able to help you with this. Most of the components can be ordered already soldered onto the PCB, with the exception of the (1) hall sensors (2) omnetics connectors (3) 6 pin connector and (3) the microcontroller.
