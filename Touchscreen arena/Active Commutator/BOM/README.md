@@ -27,3 +27,7 @@ Item: TOP-VIGOR 30Pcs Cross Pan Head Machine Screws, M2.5x25mm Phillips Round He
 - Quantity per com: 2
 - Purpose: Secures bottom case A to bottom case B
 
+Item: M3 x 40mm Socket Countersunk Screws (ISO 10642) - Marine Stainless Steel (A4)
+- Link: https://www.accu.co.uk/countersunk-socket-head-screws/5605-SSK-M3-40-A4?uk_google_shopping=1&c=3&gad_source=1&gad_campaignid=20947681391&gbraid=0AAAAADI7_w6q_uJijXxBjBDZf3_Lygi9h&gclid=Cj0KCQjwqebEBhD9ARIsAFZMbfz85BMwFL17ECiZPbXgqLJEp_dJfEoToCrL6mGVlEDdKYDxprgkn0kaAoWnEALw_wcB
+- Quantity per com: 1
+- Purpose: Connects the magnet holder to the cable holder hook
