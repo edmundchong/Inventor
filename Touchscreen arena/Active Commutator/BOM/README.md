@@ -31,3 +31,60 @@ Item: M3 x 40mm Socket Countersunk Screws (ISO 10642) - Marine Stainless Steel (
 - Link: https://www.accu.co.uk/countersunk-socket-head-screws/5605-SSK-M3-40-A4?uk_google_shopping=1&c=3&gad_source=1&gad_campaignid=20947681391&gbraid=0AAAAADI7_w6q_uJijXxBjBDZf3_Lygi9h&gclid=Cj0KCQjwqebEBhD9ARIsAFZMbfz85BMwFL17ECiZPbXgqLJEp_dJfEoToCrL6mGVlEDdKYDxprgkn0kaAoWnEALw_wcB
 - Quantity per com: 1
 - Purpose: Connects the magnet holder to the cable holder hook
+
+Item: Threaded Insert M2.5 (70 pieces), M2.5x5.7
+- Link: https://www.3djake.uk/ruthex/threaded-insert-m25-70-pieces?sai=15205
+- Quantity per com: 30
+- Purpose: Mounted in all 3D printed components except the slip ring stage
+
+Item: ruthex Threaded Insert M3 Voron (100 pieces), M3x5x4
+- Link: https://www.3djake.uk/ruthex/threaded-insert-m3-voron-100-pieces?sai=15775
+- Quantity per com: 2
+
+## Hardware
+
+Item: Multiprotocol Modules Seeed Studio XIAO ESP32C3
+- Link: https://www.mouser.co.uk/ProductDetail/Seeed-Studio/113991054?qs=3Rah4i%252BhyCHVBerMrpzCkw%3D%3D
+- Quantity per com: 1
+- Purpose: Controls the step motor via arduino ino
+
+**!! NOTE: The ESP32C3 model can also be replaced by the XIAO RP2040 model which is cheaper and more quickly available on RS (RS 250-0966!!)**
+
+Item: STEPPERONLINE Round Nema 14 Bipolar 0.9 deg 7 Ncm 0.5 A Φ36 x 12 mm 4 Wires for CNC Engraving Machine, 3D Printer **(Step Motor)**
+ - Link: https://www.amazon.co.uk/gp/product/B07SPK6BT4/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1
+ - Quantity per com: 1
+ - Purpose: Moves the commutator
+
+Item: RS PRO Neodymium Magnet 0.45kg, Width 4mm
+ - Link: https://uk.rs-online.com/web/p/neodymium-magnets/2192244
+ - Quantity per com: 2
+ - Purpose: Rotates as the rat moves, generating signal for hall sensors. **Note: The original design had non-standard sizes for magnets, so the STL for the magnet holder was changed to accomodate 4mm x 4mm RS magnets**
+
+Item: sourcing map 6806-2RS Deep Groove Ball Bearings 30mm Inner Dia 42mm OD 7mm Bore Double Sealed Chrome Steel Z2 10pcs
+- Link: https://www.amazon.co.uk/-/en/sourcing-6806-2RS-Groove-Bearing-Double/dp/B082PYHLC2/ref=sr_1_1?crid=15H3S52WLF4B7&keywords=30%2Bmm%2Binnendurchmesser%2B42%2Bmm%2Bau%C3%9Fendurchmesser%2B7%2Bmm&qid=1666098666&qu=eyJxc2MiOiIxLjkzIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&s=industrial&sprefix=30%2Bmm%2Binner%2Bdiameter%2B42%2Bmm%2Bouter%2Bdiameter%2B7%2Bmm%2Cindustrial%2C120&sr=1-1&th=1
+- Quantity per com: 1
+- Purpose: Allows for rotation of the slip ring
+
+Item: S623-2Z - 3mm x 10mm Deep Groove Ball Bearings - Metal Shields - Stainless Steel (440)
+ - Link: https://www.accu.co.uk/deep-groove-ball-bearings/987147-S623-2Z
+ - Quantity per com: 1
+ - Purpose: Allows for rotation of SPI cable on rat (via screw holding the cable hook and magnet holder)
+
+Item: M220 Series Medium Capsule Slip Ring
+- Link: https://www.senring.com/capsule-slip-ring/m220.html
+- Quantity per com: 1
+- Purpose: Allows for rotation of commutator
+
+**!! Note: This slip ring comes with 36 wires, which is more than needed for the commutator. Cut the excess wires as per the GitHub insturctions. Additionally, note that one unit actually contains 2 slip rings (the sales team doesn't tell you this**
+
+Item: A79623-001
+- Link: https://www.omnetics.com/product/a79623-001/
+- Quantity per com: 4
+- Purpose: Allows for connection of headstages and acquistion boards
+
+Item: ANGEEK 20PCS A3144 OH3144 Y3144 Hall Effect Sensor Brushless Electric Motor TO-92UA A3144EUA
+- Link: https://www.amazon.co.uk/gp/product/B07ZDJSZSG/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1
+- Quantity per com: 2
+- Purpose: Detects rotation of magnets 
+
+**There are also other electronic components listed in the BOM, required for the PCBs. The rest can be ordered and pre-soldered onto the board directly with JCLPCB**
