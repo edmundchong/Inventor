@@ -3,7 +3,7 @@
 - The original design uses the XIAO ESP32C3 microcontroller model, however an alternative .ino was compiled for use in the RP2040 model (this one is cheaper and also available on RS)
 - There are 3 available sketches, which do the following:
 
-**First Sketch – Polling Version (D7/D8/D9 pins)**
+**sketch_torque_commutator_XIAOESP32C3_LM – Polling Version (D7/D8/D9 pins)**
 - Function: Continuously checks Hall sensors in the loop() using digitalRead() and runs the stepper if a sensor is active.
 - Use when: You want simpler code for testing or slow-moving systems where missing quick Hall events is unlikely.
 
