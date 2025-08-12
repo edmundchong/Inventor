@@ -9,7 +9,7 @@ The original design uses the XIAO ESP32C3 microcontroller model, however an alte
 - Function: Uses attachInterrupt() so the motor runs immediately when a Hall sensor changes state, independent of the loop() timing.
 - Use when: You need fast, precise response to Hall sensor triggers, such as in high-speed or highly accurate commutator operation.
 
-**RP2040 Adapted Sketch – Interrupt Version (D7/D8/D9 for motor, A1/A2 for Hall sensors)**
+**Torque_mode_XIAORP2040 – Interrupt Version (D7/D8/D9 for motor, A1/A2 for Hall sensors)**
 - Function:  Identical logic to Interrupt Version above, but pin numbers updated because the RP2040 does not have A7/A8/A9; now uses D7/D8/D9 for stepper control while keeping Hall sensors on A1/A2.
 - Use when: Running on a Seeed XIAO RP2040 and need low-latency, reliable commutator control that matches the ESP32C3’s interrupt-driven behavior.
 
