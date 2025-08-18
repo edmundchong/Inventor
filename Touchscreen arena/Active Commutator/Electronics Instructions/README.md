@@ -37,3 +37,14 @@
 - While measuring resistance or continuity, gently flex the slip ring and tug the wires.
 - Watch for resistance fluctuations or intermittent opens.
 - If it changes, the joint is mechanically unstable → reflow solder.
+
+## Troubleshooting Guide
+
+| Symptom                                | Likely Cause                              | Fix                                                                 |
+|----------------------------------------|-------------------------------------------|---------------------------------------------------------------------|
+| Channel has no signal / infinite resistance | Cold joint or broken wire                  | Reflow solder, ensure wire is fully wetted, trim & resolder if needed |
+| Channel has much higher resistance than others | Partial contact, too little solder, or cracked joint | Add flux and reflow, or desolder and redo joint                      |
+| Channel reads near zero Ω to neighbor  | Solder bridge or stray wire strand        | Wick away excess solder, clean pad, resolder carefully              |
+| Resistance changes when wire is moved  | Mechanically unstable joint               | Reflow solder, ensure strain relief on wires                        |
+| Excess noise on specific channel during recording | High impedance or intermittent joint       | Check with impedance test, reflow or replace joint                  |
+
