@@ -39,7 +39,17 @@
 
 **Item: ruthex Threaded Insert M3 Voron (100 pieces), M3x5x4**
 - Link: https://www.3djake.uk/ruthex/threaded-insert-m3-voron-100-pieces?sai=15775
-- Quantity per com: 2
+- Quantity per com: 3
+
+OR for quicker delivery on amazon:
+
+**Item: HANGLIFE Threaded Inserts for Plastic, M3 Heat Set Insert for 3D Printing Components and Plastic Parts - Brass Metric Knurled Nuts (100 Pieces), M3 X 5 X 4**
+- Link: : https://www.amazon.co.uk/HANGLIFE-Threaded-Inserts-Printing-Components/dp/B0CS6VZYL8/ref=sr_1_4?crid=19V8KQ92VNATR&dib=eyJ2IjoiMSJ9.fZ7Kkp2Mg8p5wLS6tvRJnW-I_g_af6GyV-ia_Cx-Xqv8RNQofelx6qbSFbVPtzaTCsXpChVKyoP4nquXoLxlaRM73T4GMSv1bu0ce32L5RJ7078-fPYtHWwkijzYny5r23yfphnV1lfWLzfaoR01XxWSw5mYW5qV-buJYr6MEVlQFUQV6admgfUkKP-wsvN6KysXbHFw-IVHc8YoaxLDr6ahEpFVleUhA8Hg7fFjdZdD6femjwapZSD_v_lGToZ6gQXNE40CLBihs6rNao2uRvH1f9Vw_XPCN2AP8PPwhEM.muluGu9wUywp2os0npzxRavEo0BleWw53AHC02NrIkY&dib_tag=se&keywords=Threaded%2BInsert%2BM3%2BVoron%2B(100%2Bpieces)%2C%2BM3x5x4&qid=1754994880&s=industrial&sprefix=threaded%2Binsert%2Bm3%2Bvoron%2B100%2Bpieces%2Bm3x5x4%2Cindustrial%2C48&sr=1-4&th=1
+- Quantity per com: 3
+
+**Item: sourcing map M2.5 Threaded Inserts, 70 Pcs Metric Knurled Nuts Brass Heat-Set Inserts for Plastic, 3D Printing Components, M2.5 x 5.7**
+- Link: https://www.amazon.co.uk/sourcing-map-Threaded-Heat-Set-Components/dp/B0CTC6TGDD/ref=sr_1_21?crid=35YOFYD0S0RT3&dib=eyJ2IjoiMSJ9.YMGV4Qmzs9h0zW4_PQfh8E_Dwn27T7brYNQNYvBgDDIT_Ckhfm6b6isZhy75b5qk6FsWHZ7AIc7XdnGIXX44IQdwRZW1zzWPzG_JWE3n5CrZMJlAdb4FW4R2pw5yR-rhI3w_-PbLaPw8OnVeptPkU0jU1gNV8pH5kS_eMp2H_AwgDqCc9Kc1RJabqA2UppD6NY_a-QnVVu16vsU636J15Er0RvNVCR2sBwPM8w-qN7XxUTvADiFszKip-KqhYwnlRTnLg-mKkD1BukffSdaxBdMhFj3Q8qHw6JnOT8fTdUY.XOa4oZaWEfIPp9rxTnnDY0TE6uF1cC7kG8kIKMY9czs&dib_tag=se&keywords=m2.5%2Bx%2B5.7%2Bbrass%2Binserts%2B3d%2Bprints&qid=1754995285&s=industrial&sprefix=m2.5%2Bx%2B5.7%2Bbrass%2Binserts%2B3d%2Bprints%2Cindustrial%2C48&sr=1-21&th=1
+- Quantity per com: 30
 
 ## Hardware
 
@@ -85,6 +95,11 @@
 **Item: ANGEEK 20PCS A3144 OH3144 Y3144 Hall Effect Sensor Brushless Electric Motor TO-92UA A3144EUA**
 - Link: https://www.amazon.co.uk/gp/product/B07ZDJSZSG/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1
 - Quantity per com: 2
-- Purpose: Detects rotation of magnets 
+- Purpose: Detects rotation of magnets
+
+**Item: BIGTREETECH TMC2208 V3.0 UART Stepper Motor Driver with Heatsink Reprap TMC2209 for Octopus V1.1/SKR 3/SKR V1.4 Turbo Manta Series MKS Gen L 3D Printer Motherboard**
+- Link: https://www.amazon.co.uk/Kingprint-TMC2208-Stepper-Heatsink-Replacement/dp/B07V6YVJ99/ref=sr_1_5?crid=1YS1A53D31ZDT&dib=eyJ2IjoiMSJ9.XuKsVYS_gpFBEHkyxjHgd52Epi-rdvP9HVK_SJUaPJBUMme5cvAsIdd73PfPcGOz7S3xKVzFqkfgWAfzF2Dt0td_HvLEFZXA245jTj3uaMRzt9eg6zgxLweILG_MkzwjN_9Wcm1oieBFhbbbmnkJp4EEsqX8TbMvjb8I58Skal3CyYdIdjJBeGgwXlTV_Z_Uy_UMtPAMM_-VminMpr1Lcb0hiZrztvgkFsJ-HzY6BW9cAyPVXmazVxg3bPvv2g37_Spy2XLT5GJgJBjbr68Y6Qc2OZSPfeJIKdsic7OhEl0.C9ZR7LtGV2fhCYilllqfojGVCppjeJ-5xt69eB4-gkQ&dib_tag=se&keywords=BIGTREETECH%2BTMC2209%2BV1.3%2BStep%2BMotor%2BDriver&qid=1755088711&sprefix=bigtreetech%2Btmc2209%2Bv1.3%2Bstep%2Bmotor%2Bdriver%2Caps%2C182&sr=8-5&th=1
+- Quantity per com: 1
+
 
 **There are also other electronic components listed in the BOM, required for the PCBs. The rest can be ordered and pre-soldered onto the board directly with JCLPCB**
