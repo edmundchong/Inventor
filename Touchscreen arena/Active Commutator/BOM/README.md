@@ -14,8 +14,8 @@
 
 **Item: Sourcingmap M2.5x8mm 10.9 Alloy Steel Button Head Hex Socket Cap Screw Bolt Black 50pcs**
 - Link: https://www.amazon.co.uk/-/en/sourcingmap-Button-Hexagon-Socket-Screw/dp/B01D4VH1YO/ref=sr_1_6?crid=3MD1LE0BY8UTJ&keywords=m2%2C5x8&qid=1666099695&qu=eyJxc2MiOiIzLjA3IiwicXNhIjoiMi4yNCIsInFzcCI6IjIuMjgifQ%3D%3D&sprefix=m2.5x8%2Caps%2C138&sr=8-6
-- Quantity per com: 14
-- Purpose: Secures PCBs (x8), smaller ball bearing (x4) and step motor (x2)
+- Quantity per com: 17
+- Purpose: Secures PCBs (x8), smaller ball bearing (x4), step motor (x2) and the outer casing (x3)
 
 **Item: M3 x 6mm Socket Countersunk Screws (ISO 10642) - Marine Stainless Steel (A4)**
 - Link: https://www.accu.co.uk/countersunk-socket-head-screws/5595-SSK-M3-6-A4?uk_google_shopping=1&c=3&gad_source=1&gad_campaignid=19697004200&gbraid=0AAAAADI7_w4ydN-_Y6PiB9y3RYUPCKetz&gclid=Cj0KCQjwqebEBhD9ARIsAFZMbfwDYO1Q-4lE66XTCYEW8ubg3AU-Ps38buSAnU2U6YDvJLzOv5Mv_gMaAnDhEALw_wcB
@@ -50,6 +50,16 @@ OR for quicker delivery on amazon:
 **Item: sourcing map M2.5 Threaded Inserts, 70 Pcs Metric Knurled Nuts Brass Heat-Set Inserts for Plastic, 3D Printing Components, M2.5 x 5.7**
 - Link: https://www.amazon.co.uk/sourcing-map-Threaded-Heat-Set-Components/dp/B0CTC6TGDD/ref=sr_1_21?crid=35YOFYD0S0RT3&dib=eyJ2IjoiMSJ9.YMGV4Qmzs9h0zW4_PQfh8E_Dwn27T7brYNQNYvBgDDIT_Ckhfm6b6isZhy75b5qk6FsWHZ7AIc7XdnGIXX44IQdwRZW1zzWPzG_JWE3n5CrZMJlAdb4FW4R2pw5yR-rhI3w_-PbLaPw8OnVeptPkU0jU1gNV8pH5kS_eMp2H_AwgDqCc9Kc1RJabqA2UppD6NY_a-QnVVu16vsU636J15Er0RvNVCR2sBwPM8w-qN7XxUTvADiFszKip-KqhYwnlRTnLg-mKkD1BukffSdaxBdMhFj3Q8qHw6JnOT8fTdUY.XOa4oZaWEfIPp9rxTnnDY0TE6uF1cC7kG8kIKMY9czs&dib_tag=se&keywords=m2.5%2Bx%2B5.7%2Bbrass%2Binserts%2B3d%2Bprints&qid=1754995285&s=industrial&sprefix=m2.5%2Bx%2B5.7%2Bbrass%2Binserts%2B3d%2Bprints%2Cindustrial%2C48&sr=1-21&th=1
 - Quantity per com: 30
+
+**Item: RS PRO, Bright Zinc Plated Steel Lock Nut, DIN 985, M3**
+- Link: https://uk.rs-online.com/web/p/hex-nuts/0524281?gb=s
+- Quantity per com: 1
+- Purpose: Secures the vertical screw holding the cable hook, to the small ball bearing. Replaces the brass insert used in original design
+
+**Item: RS PRO Bright Zinc Plated Steel Plain Form A Washers, M3, DIN 125A**
+- Link: https://uk.rs-online.com/web/c/?searchTerm=m3+washers
+- Quantity per com: 2
+- Purpose: Sandwiches the small ball bearing, to even the load and reduce friction. Original design does not include this
 
 ## Hardware
 
@@ -87,7 +97,7 @@ OR for quicker delivery on amazon:
 
 **!! Note: This slip ring comes with 36 wires, which is more than needed for the commutator. Cut the excess wires as per the GitHub insturctions. Additionally, note that one unit actually contains 2 slip rings (the sales team doesn't tell you this**
 
-**Item: A79623-001**
+**Item: Omnetics connectors A79623-001**
 - Link: https://www.omnetics.com/product/a79623-001/
 - Quantity per com: 4
 - Purpose: Allows for connection of headstages and acquistion boards
