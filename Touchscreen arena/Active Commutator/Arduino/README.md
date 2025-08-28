@@ -13,7 +13,10 @@ The original design uses the XIAO ESP32C3 microcontroller model, however an alte
 - Use when: You want simpler code for testing or slow-moving systems where missing quick Hall events is unlikely.
 
 ---
-### Sketch_torque_commutator_v8_AR - Adapted SWC version 
+
+### Re-written sketches 
+
+**Sketch_torque_commutator_v8_AR - Adapted SWC version** 
 - Function: Drives stepper motor based on hall sensor inputs (auto left/right commutation) while also allowing manual rotations and other debugging functions via serial commands.
 - Use when: You want a commutator that runs automatically with hall sensors but can be manually controlled or overridden through serial input.
 
