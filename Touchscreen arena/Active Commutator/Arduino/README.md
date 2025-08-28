@@ -8,10 +8,6 @@ The original design uses the XIAO ESP32C3 microcontroller model, however an alte
 - Function: Uses attachInterrupt() so the motor runs immediately when a Hall sensor changes state, independent of the loop() timing.
 - Use when: You need fast, precise response to Hall sensor triggers, such as in high-speed or highly accurate commutator operation.
 
-**sketch_torque_commutator_XIAOESP32C3_LM – Polling Version (D7/D8/D9 pins)**
-- Function: Continuously checks Hall sensors in the loop() using digitalRead() and runs the stepper if a sensor is active.
-- Use when: You want simpler code for testing or slow-moving systems where missing quick Hall events is unlikely.
-
 ---
 
 ### Re-written sketches 
