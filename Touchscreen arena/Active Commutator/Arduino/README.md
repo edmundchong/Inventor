@@ -39,4 +39,4 @@ For this, use the following sketch:
 
 ## Instructions for testing motor
 - Take your magnet, and hold it close to the left hall sensor on the PCB. If your commutator works, the stepper driver should rotate the commutator left. Vice versa, if you hold the magnet to the right hall sensor, it should rotate right.
-- If the commutator is turning the wrong way, you should flip the orientation of the magnets in your magnet holder
+- Listen out to make sure the motor is turning smoothly and quietly. If its stuttering and getting stuck, unplug it and make sure the gears turn smoothly without bumping anything. It's more likely though 
