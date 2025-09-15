@@ -25,7 +25,7 @@ These build instructions are based on the OpenMac Commutator paper, optimised fo
 
 ## Step 3:Prepare the top and bottom PCBs
 1. Roger should be able to help you with this. Most of the components can be ordered already soldered onto the PCB, with the exception of the (1) hall sensors (2) omnetics connectors (3) 6 pin connector and (3) the microcontroller.
-2. You'll need Roger to solder the SMD components (ie the omnetics connector), but the rest you should be able to do yourself with the diagrams from the paper
+2. You'll need Roger to solder the SMD components (ie the omnetics connector), but the rest you should be able to do yourself with the diagrams from the paper. Alternatively **you can also buy intan board SPI adapters, which you can hot glue onto the PCB. This is more bulky but also more stable, as the SMD components are really hard to solder**
 3. The STL files have been modified to have taller top and bottom casings - this should accomodate pin headers for connecting the slip ring wires. You can also hard solder them directly onto the PCB, but its a pain to undo if you make a mistake, and also permanently marries the slip ring to the commutator.
 4. You can also optionally add 5mm stand offs to the top and bottom PCBs. This raises the PCBS slightly off the 3D print, so the component legs sticking out of the bottom of the PCB don't bump the 3d print (for some reason when I tried to screw the PCBs on directly, they would bend and not lay flush, because of this issue)
 
