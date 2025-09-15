@@ -1,6 +1,6 @@
 ## Notes
 
-The original arduino sketch from the paper was replaced by the following adapted version:
+The original arduino sketch from the paper was replaced by the following adapted version. This is the one you want to upload (the others are just the originals from the paper, for reference):
 
 **Sketch_torque_commutator_v11_stutterfixed - Adapted version** 
 - Written for the RP2040 seeeduino model (the original sketch from the paper is for the XIAO ESP32C3, but the RP2040 is cheaper + available on RS)
