@@ -51,15 +51,16 @@ OR for quicker delivery on amazon:
 - Link: https://www.amazon.co.uk/sourcing-map-Threaded-Heat-Set-Components/dp/B0CTC6TGDD/ref=sr_1_21?crid=35YOFYD0S0RT3&dib=eyJ2IjoiMSJ9.YMGV4Qmzs9h0zW4_PQfh8E_Dwn27T7brYNQNYvBgDDIT_Ckhfm6b6isZhy75b5qk6FsWHZ7AIc7XdnGIXX44IQdwRZW1zzWPzG_JWE3n5CrZMJlAdb4FW4R2pw5yR-rhI3w_-PbLaPw8OnVeptPkU0jU1gNV8pH5kS_eMp2H_AwgDqCc9Kc1RJabqA2UppD6NY_a-QnVVu16vsU636J15Er0RvNVCR2sBwPM8w-qN7XxUTvADiFszKip-KqhYwnlRTnLg-mKkD1BukffSdaxBdMhFj3Q8qHw6JnOT8fTdUY.XOa4oZaWEfIPp9rxTnnDY0TE6uF1cC7kG8kIKMY9czs&dib_tag=se&keywords=m2.5%2Bx%2B5.7%2Bbrass%2Binserts%2B3d%2Bprints&qid=1754995285&s=industrial&sprefix=m2.5%2Bx%2B5.7%2Bbrass%2Binserts%2B3d%2Bprints%2Cindustrial%2C48&sr=1-21&th=1
 - Quantity per com: 30
 
-**Item: RS PRO, Bright Zinc Plated Steel Lock Nut, DIN 985, M3**
-- Link: https://uk.rs-online.com/web/p/hex-nuts/0524281?gb=s
-- Quantity per com: 1
-- Purpose: Secures the vertical screw holding the cable hook, to the small ball bearing. Replaces the brass insert used in original design
+**Item: Wurth Elektronik Standoff, M2.5 x M2.5 Thread, 5mm Body, Brass, Male/Female, 6mm Stud**
+- Link: https://uk.rs-online.com/web/p/standoffs/1842967?searchId=3e1cf356-4585-461e-bf02-c53997ff08a9&gb=s
+- Quantity per com: 4
+- Purpose: Raises the top PCB off the 3D print, so theres clearance for the component legs under the PCB)
 
 **Item: RS PRO Bright Zinc Plated Steel Plain Form A Washers, M3, DIN 125A**
 - Link: https://uk.rs-online.com/web/c/?searchTerm=m3+washers
 - Quantity per com: 2
 - Purpose: Sandwiches the small ball bearing, to even the load and reduce friction. Original design does not include this
+
 
 ## Hardware
 
