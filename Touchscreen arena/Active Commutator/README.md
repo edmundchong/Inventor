@@ -60,6 +60,14 @@ These build instructions are based on the OpenMac Commutator paper, optimised fo
 3. Screw in the bottom PCB to the Bottom Case A, the same as you did with the top PCB, with the wires tucked in underneath.
 4. Take your bottom case A (containing your magnet holder) and close it onto bottomn case A. Secure with screws
 
+## Step 7: Mount SPI cables 
+1. If you want to use multiple SPI cables for simultaneous recordings, they need to be shrink wraped first + spring added to ensure the cable stays above the rats head.
+2. Combine your spi cables and leave approx 20cm exposed (this part connects to the commutator)
+3. Below this, shrink wrap approx 30cm using 8mm shrink wrap (4:1 shrink ratio)
+4. From here, shrink wrap the two spi cables **individually**, all the way down to the connector
+5. Use an elastic for the spring component. Refer to the diagram image for measurements.
+6. Once your cables are prepared, mount them onto the 3D printed hook. Make sure the exposed cables are snug in the hook, and that the start of the shrink wrap (from step 3) sits right at the base of the hook (this maximises turning tension on the hook).
+
 **You should now have a fully built commutator. Refer to the arduino folder for coding instructions**
 
 
