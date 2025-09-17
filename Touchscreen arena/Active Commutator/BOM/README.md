@@ -112,5 +112,14 @@ OR for quicker delivery on amazon:
 - Link: https://www.amazon.co.uk/Kingprint-TMC2208-Stepper-Heatsink-Replacement/dp/B07V6YVJ99/ref=sr_1_5?crid=1YS1A53D31ZDT&dib=eyJ2IjoiMSJ9.XuKsVYS_gpFBEHkyxjHgd52Epi-rdvP9HVK_SJUaPJBUMme5cvAsIdd73PfPcGOz7S3xKVzFqkfgWAfzF2Dt0td_HvLEFZXA245jTj3uaMRzt9eg6zgxLweILG_MkzwjN_9Wcm1oieBFhbbbmnkJp4EEsqX8TbMvjb8I58Skal3CyYdIdjJBeGgwXlTV_Z_Uy_UMtPAMM_-VminMpr1Lcb0hiZrztvgkFsJ-HzY6BW9cAyPVXmazVxg3bPvv2g37_Spy2XLT5GJgJBjbr68Y6Qc2OZSPfeJIKdsic7OhEl0.C9ZR7LtGV2fhCYilllqfojGVCppjeJ-5xt69eB4-gkQ&dib_tag=se&keywords=BIGTREETECH%2BTMC2209%2BV1.3%2BStep%2BMotor%2BDriver&qid=1755088711&sprefix=bigtreetech%2Btmc2209%2Bv1.3%2Bstep%2Bmotor%2Bdriver%2Caps%2C182&sr=8-5&th=1
 - Quantity per com: 1
 
-
 **There are also other electronic components listed in the BOM, required for the PCBs. The rest can be ordered and pre-soldered onto the board directly with JCLPCB**
+
+## Other items 
+
+**Item: RS PRO Heat Shrink Tubing, Black 8mm Sleeve Dia. x 100cm Length 4:1 Ratio, 137-428)**
+- Link: https://uk.rs-online.com/web/p/heat-shrink-tubing/0137428?gb=s
+- Quantity per com: 2
+
+**
+
+
