@@ -2,6 +2,16 @@
 
 These build instructions are based on the OpenMac Commutator paper, optimised for two SPI cables (https://www.sciencedirect.com/science/article/pii/S2468067223000366#s0045)
 
+
+
+
+https://github.com/user-attachments/assets/dc0fa8a2-baab-4230-97d7-68076f18379d
+
+
+
+
+
+
 ## Step 1: Print and prepare all 3D printed components 
   1. Submit all files in the STL folder to fablabs for printing.
   2. Secure brass inserts into all mounting holes with a soldering iron (M3 x 4mm into the slip ring stage, M2.5 x 5.7mm everywhere else)
