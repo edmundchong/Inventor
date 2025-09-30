@@ -1,4 +1,4 @@
-# BUILD INSTRUCTIONS (OpenMac Active Commutator)
+# BUILD INSTRUCTIONS (OpenMac Active Commutator - SWC Version)
 
 These build instructions are based on the OpenMac Commutator paper, optimised for two SPI cables (https://www.sciencedirect.com/science/article/pii/S2468067223000366#s0045)
 
