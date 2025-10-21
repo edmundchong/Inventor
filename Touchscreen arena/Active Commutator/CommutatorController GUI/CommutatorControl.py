@@ -7,7 +7,7 @@ import time
 
 # --------- SETTINGS ---------
 COM_PORT = 'COM3'    # CHANGE THIS to your Seeeduino port
-BAUD_RATE = 9600
+BAUD_RATE = 115200
 # ----------------------------
 
 # Try to open the serial port
@@ -60,3 +60,4 @@ tk.Button(button_frame, text="Stop (Auto)", font=button_font, width=15,
 
 # Start GUI
 root.mainloop()
+
