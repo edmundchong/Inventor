@@ -40,4 +40,4 @@
    - **-1**: Reset the sensor and reapply configurations.
 3. **Touch Detection**: As you touch the spout, the Serial Monitor will display the touched channel (should be C8), and the corresponding LED on the sensor will light up.
 
-**! If the LED is constantly on, unplug the arduino and connect it again. Make sure breadboard is on a non-conductive surface, and that the sensitivity isn't too high (aka a lower command number on serial monitor) !**
+**! If the LED is constantly on (detecting licks when there aren't any), unplug the arduino and connect it again. Make sure breadboard is on a non-conductive surface, and that the sensitivity isn't too high (aka lower command number on serial monitor as needed. Also make sure the wire going from lick spout to breadboard is as short as possible (longer wire = higher resistence = affects sensor sensitivity), and ideally not bumping against other electrical components.) !**
