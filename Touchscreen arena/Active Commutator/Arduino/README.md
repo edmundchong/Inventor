@@ -7,9 +7,6 @@ The original arduino sketch from the paper was replaced by the following adapted
 - Sketch drives the stepper motor based on hall sensor inputs from the left and right magnets:
   - If Hall A is active -> spins left for as long as hall A is active
   - If Hall B is active -> spins right for as long as hall B is active
-  - If both are active at the same time -> considers this an error, so motor stops
-  - If neither are active -> motor turned off
-  - stepDelayUs sets the motor’s speed (smaller = faster)
 - Calibration features
   - Has 3 variables that can be adapted to fine tune and calibrate the commutator:
   - **stepDelayUs** : Changes the speed of the motor
