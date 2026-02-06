@@ -1,19 +1,21 @@
 ## Notes
 
-The original arduino sketch from the paper was replaced by the following adapted version. This is the one you want to upload (the others are just the originals from the paper, for reference):
+The original arduino sketch from the paper was replaced by the following adapted version. This is the one you want to upload (the others are previous iterations):
 
-**Sketch_torque_commutator_v11_stutterfixed - Adapted version** 
-- Written for the RP2040 seeeduino model (the original sketch from the paper is for the XIAO ESP32C3, but the RP2040 is cheaper + available on RS)
+**Sketch_torque_commutator_v15_AR_latest - Adapted version** 
+- Written for the RP2040 seeeduino model (the original sketch from the paper is for the XIAO ESP32C3, but the RP2040 is cheaper + available on RS)""
 - Sketch drives the stepper motor based on hall sensor inputs from the left and right magnets:
   - If Hall A is active -> spins left for as long as hall A is active
   - If Hall B is active -> spins right for as long as hall B is active
   - If both are active at the same time -> considers this an error, so motor stops
   - If neither are active -> motor turned off
   - stepDelayUs sets the motor’s speed (smaller = faster)
-- Diagnostic / debugging features
-  - Tracks how long each Hall sensor stays active, and prints warnings if a pulse is suspiciously short (possible weak magnet or misalignment).
-  - Prints a step counter every 200 steps so you know it’s running.
-  - Reports timing anomalies if steps don’t match the expected rhythm.
+- Calibration features
+  - Has 3 variables that can be adapted to fine tune and calibrate the commutator:
+  - **stepDelayUs** : Changes the speed of the motor
+  - **HALL_DEBOUNCE_MS** : Adjusts for noise
+  - **DEAD_ZONE_MS**: Ensures debounced directional signal persists for long enough before motor initialises
+- Instructions on how to tweak these parameters are included in the sketch
 
 **If you want to just test that your sketches are uploading and running, you can use the blink test to check if you can activate your LEDs aka if the board received the sketch** 
 
