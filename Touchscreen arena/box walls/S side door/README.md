@@ -5,6 +5,7 @@
   - cut must be precise, and keep pieces paired (to reduce mating error)
       - whatever pieces that are cut together, stay together
   - avoid getting glue on mating surfaces, and make sure the magnets are fully in the slot, flush with the door edge
+  - The plastic hinge version for ephys has the M5 holes moved to a pitch of 30mm to accomodate the polyamide pinet hinges (https://uk.rs-online.com/web/p/hinges/4076916)
 
 ## Materials 
 - Laser cut door (5mm acrylic)
