@@ -19,3 +19,6 @@
 - Go into the rat params editor folder on your local computer, and add the new rats to the config file (note that if the config file lists 'all' rats, then the new rats should be found automatically)
 - Push rat params
 - Run sparse checkout
+
+### Step 3: Test rat launcher 
+- Make sure that the bonsai runs without errors, before instructing the technicians to run the new rats
