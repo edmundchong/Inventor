@@ -18,7 +18,7 @@
 - Copy the EC00 folder (template), and rename it to your new rats ID
 - Go into the rat params editor folder on your local computer, and add the new rats to the config file (note that if the config file lists 'all' rats, then the new rats should be found automatically)
 - Push rat params
-- Run sparse checkout
+- Run sparse checkout in C:\rig_params\rat-params\shared\sparse_checkout_config
 
 ### Step 3: Test rat launcher 
 - Make sure that the bonsai runs without errors, before instructing the technicians to run the new rats
