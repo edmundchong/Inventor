@@ -14,11 +14,12 @@
 - Add the photo to the rat photo backup folder on ceph
 - AnyDesk into the rig that you want to add the new rat to
 - Copy and paste the rat photo from ceph, to the local rat photo folder on the rig computer. Make sure to add the shift number prefix before the rat ID
-- Go into the rat params folder on the rig computer.
+  
+- Go into the rat params folder on your **local computer**. *The rats should not be added individually via each rig computer*.
 - Copy the EC00 folder (template), and rename it to your new rats ID
 - Go into the rat params editor folder on your local computer, and add the new rats to the config file (note that if the config file lists 'all' rats, then the new rats should be found automatically)
-- Push rat params
-- Run sparse checkout in C:\rig_params\rat-params\shared\sparse_checkout_config
+- Push the rat param changes to github, and then pull on the secret 172 computer.
+- Run sparse checkout in each local rig where the new rats are -> C:\rig_params\rat-params\shared\sparse_checkout_config . 
 
 ### Step 3: Test rat launcher 
 - Make sure that the bonsai runs without errors, before instructing the technicians to run the new rats
