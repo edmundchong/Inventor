@@ -26,8 +26,10 @@
 - If an animal is on the X version of the task, all steps from step 4 to 10 should follow the X naming of the task (ie 4x -> 5x -> 7x -> 10x)
 
 ### Progessing Behaviour - An Outline of the Parameters
+- Progression through the stages is not automatic, and has to be updated regularly. The images below describe the general functions of the parameters, which can be modified using the rat params GUI.
+- After making changes, the parameters should be pushed to GitHub and then pulled on the secret 172 computer
 
 ![Params outline](https://github.com/edmundchong/Inventor/blob/main/Touchscreen%20arena/Rat%20Daily%20Instructions/images/Params_instructions.JPG)
-![Params_outline_pt2](
+![Params_outline_pt2](https://github.com/edmundchong/Inventor/blob/main/Touchscreen%20arena/Rat%20Daily%20Instructions/images/params_instructions_2.JPG)
 
 ### Troubleshooting
