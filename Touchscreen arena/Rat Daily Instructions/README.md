@@ -1,5 +1,8 @@
 ## Rat Daily Instructions 
 
+### Setting Up Rat Daily 
+1. Create a rat daily environment with conda forge rat-daily 
+
 ### Shaping Steps
 - The stages a rat goes through when learning the task are as follows:
     1.     0_port :
@@ -9,7 +12,7 @@
     5.     4_fixlargecue OR 4x_fixlargecue :
     6.     5_fixcueshrinkstrict OR 5x_fixcueshrinkstrict :
     7.     7_fixdur OR 7x_fixdur :
-    8.     10_WM OR 10x_WM
+    8.     10_WM OR 10x_WM :
 
 ### Task Variations
 - After 3_fixshrink, the task can diverge into two modes:
@@ -23,5 +26,6 @@
 - If an animal is on the X version of the task, all steps from step 4 to 10 should follow the X naming of the task (ie 4x -> 5x -> 7x -> 10x)
 
 ### Progessing Behaviour - An Outline of the Parameters
+    1. 
 
 ### Troubleshooting
