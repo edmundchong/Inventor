@@ -26,6 +26,8 @@
 - If an animal is on the X version of the task, all steps from step 4 to 10 should follow the X naming of the task (ie 4x -> 5x -> 7x -> 10x)
 
 ### Progessing Behaviour - An Outline of the Parameters
-    1. 
+
+![Params outline](https://github.com/edmundchong/Inventor/blob/main/Touchscreen%20arena/Rat%20Daily%20Instructions/images/Params_instructions.JPG)
+![Params_outline_pt2](
 
 ### Troubleshooting
