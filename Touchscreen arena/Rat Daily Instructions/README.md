@@ -10,7 +10,7 @@
     3.     2_fixsnoutonly: Rat is rewarded if snout is in the fixation zone (body can be positioned anywhere)
     4.     3_fixshrink : Rat only gets rewarded if snout and body is in the fixation zone, which gradually shrinks in size with each correct trial. Final Y value for the fixation zone is 216
     5.     4_fixlargecue OR 4x_fixlargecue : Rat is rewarded if fixated and then touches the large cue on the screen
-    6.     5_fixcueshrinkstrict OR 5x_fixcueshrinkstrict : Rat is rewarded if fixated and then touches the cue, which gradually shrinks in size until its final size of 0.4 or 0.5
+    6.     5_fixcueshrinkstrict OR 5x_fixcueshrinkstrict : Rat is rewarded if fixated and then touches the cue, which gradually shrinks in size until the final cue size is 0.4 or 0.5
     7.     7_fixdur OR 7x_fixdur : Rat learns to fixate for an increasing duration of time (max = 1.2s)
     8.     10_WM OR 10x_WM : Working memory task. 
 
