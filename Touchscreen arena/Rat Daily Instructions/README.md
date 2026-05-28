@@ -11,8 +11,8 @@
     4.     3_fixshrink : Rat only gets rewarded if snout and body is in the fixation zone, which gradually shrinks in size with each correct trial. Final Y value for the fixation zone is 216
     5.     4_fixlargecue OR 4x_fixlargecue : Rat is rewarded if fixated and then touches the large cue on the screen
     6.     5_fixcueshrinkstrict OR 5x_fixcueshrinkstrict : Rat is rewarded if fixated and then touches the cue, which gradually shrinks in size until its final size of 0.4 or 0.5
-    7.     7_fixdur OR 7x_fixdur :
-    8.     10_WM OR 10x_WM :
+    7.     7_fixdur OR 7x_fixdur : Rat learns to fixate for an increasing duration of time (max = 1.2s)
+    8.     10_WM OR 10x_WM : Working memory task. 
 
 ### Task Variations - 10_WM and 10x_WM
 - After 3_fixshrink, the task can diverge into two modes:
@@ -37,4 +37,5 @@
    - Check the data exists on the local rig computer for that animal. If there is a results folder, check inside that it is not empty. If it is empty, the data did not get recorded for that day
    - If the data exists locally, check that it has been copied to ceph. Common issues it is not in ceph: 1. Ceph has been logged out or 2. Robocopy got interrupted. In either case, make sure ceph is logged back in and re-run robocopy
    - The data has not been processed yet. If the above issues have been addressed, check with Edmund to make sure data is being processed. 
-    -  
+2. Animal shows a sudden decline in trial number
+    - Check the tracking on the rig, and the condition of the rig itself (decline can happen because animal is poorly tracked, milk isn't being dispensed, some other errors etc)  
