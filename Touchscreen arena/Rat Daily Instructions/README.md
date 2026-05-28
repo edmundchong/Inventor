@@ -35,7 +35,7 @@
 ### Troubleshooting
 1. Results graphs are not showing up in rat daily
    - Check the data exists on the local rig computer for that animal. If there is a results folder, check inside that it is not empty. If it is empty, the data did not get recorded for that day
-   - If the data exists locally, check that it has been copied to ceph. Common issues it is not in ceph: 1. Ceph has been logged out or 2. Robocopy got interrupted. In either case, make sure ceph is logged back in and re-run robocopy
+   - If the data exists locally, check that it has been copied to ceph. Common issues if data is not on ceph: 1. Ceph has been logged out or 2. Robocopy got interrupted. In either case, make sure ceph is logged back in and re-run robocopy
    - The data has not been processed yet. If the above issues have been addressed, check with Edmund to make sure data is being processed. 
 2. Animal shows a sudden decline in trial number
     - Check the tracking on the rig, and the condition of the rig itself (decline can happen because animal is poorly tracked, milk isn't being dispensed, some other errors etc)  
