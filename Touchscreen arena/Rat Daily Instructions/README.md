@@ -5,12 +5,12 @@
 
 ### Shaping Steps
 - The stages a rat goes through when learning the task are as follows:
-    1.     0_port :
-    2.     1_randomsnout :
-    3.     2_fixsnoutonly:
-    4.     3_fixshrink :
-    5.     4_fixlargecue OR 4x_fixlargecue :
-    6.     5_fixcueshrinkstrict OR 5x_fixcueshrinkstrict :
+    1.     0_port : Rat learns to touch lickspout for reward. Rewarded when spout is licked.
+    2.     1_randomsnout : Rat is rewarded if touchscreen is poked anywhere (?)
+    3.     2_fixsnoutonly: Rat is rewarded if snout is in the fixation zone (body can be positioned anywhere)
+    4.     3_fixshrink : Rat only gets rewarded if snout and body is in the fixation zone, which gradually shrinks in size with each correct trial. Final Y value for the fixation zone is 216
+    5.     4_fixlargecue OR 4x_fixlargecue : Rat is rewarded if fixated and then touches the large cue on the screen
+    6.     5_fixcueshrinkstrict OR 5x_fixcueshrinkstrict : Rat is rewarded if fixated and then touches the cue, which gradually shrinks in size until its final size of 0.4 or 0.5
     7.     7_fixdur OR 7x_fixdur :
     8.     10_WM OR 10x_WM :
 
