@@ -12,7 +12,8 @@ https://github.com/user-attachments/assets/dc0fa8a2-baab-4230-97d7-68076f18379d
 
 
 ## Important Notes
-- Make sure you power the commutator **externally** using the dedicated power jack, with a 9V plug (RS Stock No. 270-7390). The USB-C alone is not powerful enough, and caused the motor to stutter because it did not have enough torque
+- Make sure you power the commutator **externally** using the dedicated power jack, with a 9V plug (RS Stock No. 270-7390). The USB-C alone is not powerful enough, and caused the motor to stutter because it did not have enough torque.
+- If you find the commutator still stutters, or is less responsive, you may need to adjust the screw pin on the stepper driver (CCW = Voltage decreases, CW = voltage increases). The the voltage you measure when touching the stepper screw and ground should fall in the range of 0.4-0.6. 
 - It is also recommended to add a heat sink to the outer casing of the motor. When powered externally, the motor gets very hot, but the heat sink is effective in resolving this 
 
 ## Step 1: Print and prepare all 3D printed components 
