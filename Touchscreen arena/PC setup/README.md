@@ -1,7 +1,7 @@
 # Setting Up New Behavioural Rigs
 
 ## Computer details 
-- Computer Model:
+- Computer Model:HP Z8 G5 Workstation Desktop PC with 64GB RAM + 6GB NVIDIA GeForce RTX 3050
 - Set up Akrami Lab account with no password (the username must be **akramilab**, otherwise there'll be errors with bonsai paths)
 - Make sure to disable automatic power off in settings
 - Pin the following programs to taskbar, after installation
