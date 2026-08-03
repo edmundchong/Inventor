@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/dc0fa8a2-baab-4230-97d7-68076f18379d
 - It is also recommended to add a heat sink to the outer casing of the motor. When powered externally, the motor gets very hot, but the heat sink is effective in resolving this 
 
 ## Step 1: Print and prepare all 3D printed components 
-  1. Submit all files in the STL folder to fablabs for printing.
+  1. Submit all files in the STL folder to fablabs for printing. Most materials are fine, as long as they don't have too high of a melting point, as you need to heat press inserts into the plastic (PLA is good, biomed resin no good)
   2. Secure brass inserts into all mounting holes with a soldering iron (M3 x 4mm into the slip ring stage, M2.5 x 5.7mm everywhere else)
   3. Insert the magnets into the magnet holder, and secure with a tiny bit of epoxy (the direction of polarity should match both magnets).
   4. Insert the smaller bearing into the central circular groove at the external bottom of bottom case B
